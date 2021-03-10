@@ -1,0 +1,458 @@
+﻿GENE,Source,SNP,Hormonal?,Annotation
+DRD3,OCDB,rs3773679,yes,dopamine receptor
+SLC1A1,OCDB,rs3087879,yes,solute carrier for glutamate transporters; mutation associated with glutamate-aspartate transport defect
+SLC6A3,OCDB,rs4975646,yes,dopamine transporter; mutations assciated with ADHD idiopathic
+NRXN1,OCDB,,no,neurexin (cell-surface receptor involved in Ca-dependent neurexin complexes)
+WWP1,OCDB,,no,ubiquitin protein ligase 1 (also involved in transcription and RNA splicing)
+DRD4,OCDB,,yes,dopamine receptor
+SMAD4,OCDB,,no,signal transduction protein; binds to smad-binding element (SBE); tumor suppressor protein; associated with TGF-B transduction (important in formation of neural tube during development)
+CR1,OCDB,,no,"membrane glycoprotein in follicular dendritic cells or blood cells (RCA);mutations in this gene have been associated with gallbladder carcinomas, mesangiocapillary glomerulonephritis, systemic lupus erythematosus, sarcoidosis and Alzheimer's disease"
+GRIA3,OCDB,,yes,glutamate ionotropic receptor
+GRIA4,OCDB,,yes,glutamate ionotropic receptor
+GRIK1,OCDB,,yes,glutamate ionotropic receptor
+GRIK2,OCDB,,yes,glutamate ionotropic receptor
+GRIK3,OCDB,,yes,glutamate ionotropic receptor
+GRIK5,OCDB,,yes,glutamate ionotropic receptor
+GRIN2B,OCDB,rs1805476,yes,glutamate ionotropic receptor
+HTR1A,OCDB,rs6295,yes,serotonin receptor; mutation in the promoter of this gene has been associated with menstrual cycle-dependent periodic fevers
+SOD2,OCDB,rs4880,no,"mitochondrial protein that binds to superoxide byproducts of oxidative phosphorylation; mutations in this gene have been associated with idiopathic cardiomyopathy (IDC), premature aging, sporadic motor neuron disease, and cancer."
+SNAP25,OCDB,,yes,vessicle transport involved in neurotransmitter release and regulation
+ANKK1,OCDB,rs1800497,yes,"closely linked to DRD2 gene, transcribes a Ser/Thr kinase protein"
+DRD2,OCDB,,yes,dopamine receptor
+DRD1,OCDB,,yes,dopamine receptor
+ADRA2A,OCDB,,no,adrenocetor alpha 2A; involved in regulating the release of neurotransmitter molecules from sympathetic nerves and from adrenergic neurons in the central nervous system
+ADRB1,OCDB,,no (epinephrine),epinephrine and norepinephrine receptor; adrenoceptor beta 1; mediate the physiological effects of the hormone epinephrine and the neurotransmitter norepinephrine
+APOE,OCDB,,no,apolipoprotein E: catabolism of lipoproteins
+BDNF,OCDB,,no,"brain derived neurotrophic factor: nerve growth factor, regulation of stress response and associated with mood disorders. reduced expression leads to alzheimer's parkinson's and huntington's"
+CACNA1A,OCDB,,no,"calcium voltage-gated channel subunit alpha1 A: mediates hormone or neurotransmitter release, mutations associated with familial hemiplegic migraine and episodic ataxia 1"
+CDH2,OCDB,,no,cadherin 2: development of nervous system
+CHRM4,OCDB,,no,"cholinergic receptor muscarinic 4: function unknown, linked to adenylyl cyclase inhibition, phosphoinositide degeneration, and potassium channel mediation"
+CHRM5,OCDB,,no,"cholinergic receptor muscarinic 5:  function unknown, linked to adenylyl cyclase inhibition, phosphoinositide degeneration, and potassium channel mediation"
+CHRNA7,OCDB,,no,"cholinergic receptor nicotinic alpha 7 subunit: mediate fast signal transmission at synapses, permeability to calcium ions, receptor binds acetylcholine"
+DAOA,OCDB,,no,"D-amino acid oxidase activator: associated with schizophrenia and bipolar affective disorder, activator of D-amino acid oxidase, degrades D-serine"
+DLG4,OCDB,,no,"membrane-associated guanylate kinase (MAGUK) family; form multimeric scaffold for receptors, ion channels and signaling proteins"
+DLGAP1,OCDB,,no,DLG associated protein 1
+DLGAP3,OCDB,,no,DLG associated protein 3
+ESR2,OCDB,,no (estrogen),estrogen receptor 2
+FAIM2,OCDB,,no,fas apoptotic inhibitory molecule 2
+FMN1,OCDB,,no,"formin 1: adherens junction, actin cables"
+GAD2,OCDB,,no,"glutamate decarboxylase 2: not active in brain tissue, catalyzing the production of gamma-aminobutyric acid from L-glutamic acid"
+GSTP1,OCDB,,no,glutathione S-transferase pi 1: detoxification and xenobiotic metabolism
+HCN4,OCDB,,no,hypopolarization activated cyclic nucleotide gated potassium: cardiac pacemaking process
+HOXB8,OCDB,,no ,homeobox B8: nuclear protein with a homeobox DNA-binding domain; mutations associated with OCD
+HRAS,OCDB,,no ,"Ras oncogene family; function in signal transduction pathway, GTPase"
+HTR1D,OCDB,,no ,5-hydroxytryptamine receptor 1D
+HTR2A,OCDB,,no ,5-hydroxytryptamine receptor 2A
+HTR3A,OCDB,,no ,5-hydroxytryptamine receptor 3A
+IQCK,OCDB,,no ,IQ motif containing K: binding site for EF_hand proteins; associated with OCD
+KCNN3,OCDB,,no ,"potassium calcium-activated channel subfamily N member 3: encodes an integral membrane protein that forms a voltage-independent calcium-activated channel, which is thought to regulate neuronal excitability by contributing to the slow component of synaptic AHP"
+KNOP1,OCDB,,no ,nucleolar protein that interacts with zinc finger 106 protein. The encoded protein has several of the same characteristics as nucleostemin and may be involved in testis development
+LMX1A,OCDB,,yes, This gene also plays a role in the development of dopamine producing neurons during embryogenesis
+MC4R,OCDB,,no ,membrane-bound receptor and member of the melanocortin receptor family. The encoded protein interacts with adrenocorticotropic and MSH hormones and is mediated by G proteins
+MEIS2,OCDB,,no ,"This gene encodes a homeobox protein belonging to the TALE ('three amino acid loop extension') family of homeodomain-containing proteins. TALE homeobox proteins are highly conserved transcription regulators, and several members have been shown to be essential contributors to developmental programs"
+MTHFR,OCDB,,no ,"catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a co-substrate for homocysteine remethylation to methionine. Genetic variation in this gene influences susceptibility to occlusive vascular disease, neural tube defects, colon cancer and acute leukemia, and mutations in this gene are associated with methylenetetrahydrofolate reductase deficiency"
+MTNR1B,OCDB,,no ,melatonin receptor 1B
+NANOGP8,OCDB,,no ,nanog homeobox retrogene P8: reprogramming of cancer cells
+NKX2-1,OCDB,,no ,nk2 homeobox 1: thyroid-specific transcription factor
+NOS1AP,OCDB,,no ,nitric oxide synthase 1 adaptor protein
+NOS2,OCDB,,no ,nitric oxide synthase 2: expressed in liver
+NTRK3,OCDB,,no ,neurotrophic receptor tyrosine kinase 3: MAPK signalling pathway for binds neurotrophins
+PBX1,OCDB,,no ,pbx homeobox 1: transcription factor regulated osteogenesis and skeletal patterning
+PSEN1,OCDB,,no ,presenilin 1
+RAP1GAP,OCDB,,no ,"rap1 gtpase activating protein: receptor-linked signaling pathways that control cell growth and differentiation. RAP1 plays a role in diverse processes such as cell proliferation, adhesion, differentiation, and embryogenesis"
+RGS2,OCDB,,no ,regulator of G protein signaling 2: mediator of myeloid differentiation and may play a role in leukemogenesis
+RORA,OCDB,,no ,"nuclear hormone receptor, regulates transcription of circadian rhythm genes"
+RYR3,OCDB,,no ,"ryanodine receptor 3: ryanodine receptor, which functions to release calcium from intracellular storage for use in many cellular processes"
+SLC1A2,OCDB,,yes (glutamate transporter),solute carrier family 1 member 2: glutamate transport - principal transporter that clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system
+SLC6A2,OCDB,,yes,
+SLC6A4,OCDB,,yes,
+SLC6A5,OCDB,,yes,
+SLITRK1,OCDB,,no ,SLITRK protein; involved in neurite outgrowth
+SLITRK5,OCDB,,no ,
+SV2A,OCDB,,no ,synaptic vesicle proteins
+TPH1,OCDB,,yes,tryptophan hydrozylase 1: catalyzes the first and rate limiting step in the biosynthesis of serotonin
+TPH2,OCDB,,yes,tryptophan hydrozylase 2: catalyzes the first and rate limiting step in the biosynthesis of serotonin
+UCP2,OCDB,,no,uncoupling protein 2: facilitate the transfer of anions from the inner to the outer mitochondrial membrane and the return transfer of protons from the outer to the inner mitochondrial membrane
+ADORA2A,OCDB,,no,"adenosine A2a receptor: seven-pass transmembrane proteins that respond to extracellular cues and activate intracellular signal transduction pathways, plays an important role in many biological functions, such as cardiac rhythm and circulation, cerebral and renal blood flow, immune function, pain regulation, and sleep. It has been implicated in pathophysiological conditions such as inflammatory diseases and neurodegenerative disorders"
+CHRNA4,OCDB,,no,"cholinergic receptor nicotinic alpha 4 subunit: nicotinic acetylcholine receptor, which belongs to a superfamily of ligand-gated ion channels that play a role in fast signal transmission at synapses"
+COMT,OCDB,,yes,"catechol-O-methyltransferase: catalyzes the transfer of a methyl group from S-adenosylmethionine to catecholamines, including the neurotransmitters dopamine, epinephrine, and norepinephrine"
+CYP2D6,OCDB,,no ,"cytochrome P450 family protein: catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids; substrates include antidepressants, antipsychotics, analgesics and antitussives, beta adrenergic blocking agents, antiarrythmics and antiemetics"
+GHRH,OCDB,,no (growth hormone),"growth hormone releasing hormone: produced in the hypothalamus and cleaved to generate the mature factor, known as somatoliberin, which acts to stimulate growth hormone release from the pituitary gland"
+GNAS,OCDB,,no,"GNAS complex locus: highly imprinted, Mutations in this gene result in pseudohypoparathyroidism type 1a, pseudohypoparathyroidism type 1b, Albright hereditary osteodystrophy, pseudopseudohypoparathyroidism, McCune-Albright syndrome, progressive osseus heteroplasia, polyostotic fibrous dysplasia of bone, and some pituitary tumors"
+HTR2B,OCDB,,yes,5-hydroxytryptamine receptor 2B:  receptors for 5-hydroxytryptamine (serotonin) that belongs to the G-protein coupled receptor 1 family
+IL1B,OCDB,,no,"interleukin 1 beta: mediator of the inflammatory response, and is involved in a variety of cellular activities, including cell proliferation, differentiation, and apoptosis"
+OLIG2,OCDB,,no,"oligodendrocyte transcription factor 2: basic helix-loop-helix transcription factor which is expressed in oligodendroglial tumors of the brain, associated with Down Syndrome"
+POMC,OCDB,,no,"proopiomelanocortin: active in pituitary, Mutations in this gene have been associated with early onset obesity, adrenal insufficiency, and red hair pigmentation"
+PRODH,OCDB,,no,proline dehydrogenase 1: mitochondrial protein that catalyzes the first step in proline degradation. Mutations in this gene are associated with hyperprolinemia type 1 and susceptibility to schizophrenia 4 (SCZD4)
+PTPN1,OCDB,,,protein tyrosine phosphatase non-receptor type 1: catalyze the hydrolysis of the phosphate monoesters specifically on tyrosine residues
+SCN2A,OCDB,,,
+HRH1,OCDB,,,
+HTR3C,OCDB,,,
+HTR3E,OCDB,,,
+OXTR,OCDB,,,
+SCN5A,OCDB,,,
+SETD5,OCDB,,,
+SLITRK3,OCDB,,,
+CXCL8,OCDB,,,
+EGF,OCDB,,,
+MTNR1A,OCDB,,,
+ADRB2,OCDB,,,
+CDH9,OCDB,,,
+EFNA5,OCDB,,,
+GABRA1,OCDB,,,
+GABRA6,OCDB,,,
+GABRG2,OCDB,,,
+CNR1,OCDB,,,
+DTNBP1,OCDB,,,
+ESR1,OCDB,,,
+GABBR1,OCDB,,,
+GPR63,OCDB,,,
+HTR1B,OCDB,,,
+KLHL32,OCDB,,,
+MOG,OCDB,,,
+NFKBIL1,OCDB,,,
+OPRM1,OCDB,,,
+PDE10A,OCDB,,,
+SLC22A3,OCDB,,,
+TNF,OCDB,,,
+CHRM2,OCDB,,,
+CRHR2,OCDB,,,
+IL6,OCDB,,,
+NDUFA4,OCDB,,,
+NEUROD6,OCDB,,,
+NOS3,OCDB,,,
+NPSR1,OCDB,,,
+NRCAM,OCDB,,,
+SGCE,OCDB,,,
+ADCY8,OCDB,,,
+ADRA1A,OCDB,,,
+DLGAP2,OCDB,,,
+SCL18A1,OCDB,,,
+ALAD,OCDB,,,
+ASTN2,OCDB,,,
+DBH,OCDB,,,
+FOXD4,OCDB,,,
+KDM4C,OCDB,,,
+NTRK2,OCDB,,,
+OLFM1,OCDB,,,
+PTPRD,OCDB,,,
+TOR1A,OCDB,,,
+TRIM32,OCDB,,,
+ADARB2,OCDB,rs2271275,,
+CCKBR,OCDB,,,
+CHRM1,OCDB,,,
+CACNA1C,OCDB,,,
+CCND2,OCDB,,,
+BDKRB2,OCDB,rs945032,,
+ACE,OCDB,,,
+BZRAP1,OCDB,,,
+CCL2,OCDB,,,
+DCC,OCDB,,,
+RBFOX1,OCDB,,,
+CTNND1,OCDB,,,
+OR5AK2,OCDB,,,
+OR5B21,OCDB,,,
+SLC43A1,OCDB,,,
+TMX2-CTNND1,OCDB,,,
+BRAF,OCDB,,,
+MRPS33,OCDB,,,
+ACO2,OCDB,,,
+ADSL,OCDB,,,
+CHADL,OCDB,,,
+DESI1,OCDB,,,
+EP300,OCDB,,,
+L3MBTL2,OCDB,,,
+PMM1,OCDB,,,
+RANGAP1,OCDB,,,
+RBX1,OCDB,,,
+SLC25A17,OCDB,,,
+ST13,OCDB,,,
+TEF,OCDB,,,
+TOB2,OCDB,,,
+XPNPEP3,OCDB,,,
+XRCC6,OCDB,,,
+ZC3H7B,OCDB,,,
+ADAMTSL4,OCDB,,,
+ADAMTSL4-AS1,OCDB,,,
+ANP32E,OCDB,,,
+ANXA9,OCDB,,,
+ARNT,OCDB,,,
+BOLA1,OCDB,,,
+CDC42SE1,OCDB,,,
+CTSK,OCDB,,,
+CTSS,OCDB,,,
+ECM1,OCDB,,,
+FAM63A,OCDB,,,
+FCGR1A,OCDB,,,
+HIST2H2AA4,OCDB,,,
+HIST2H2AB,OCDB,,,
+HIST2H2AC,OCDB,,,
+HIST2H2BE,OCDB,,,
+HIST2H3A,OCDB,,,
+HIST2H3C,OCDB,,,
+HIST2H4B,OCDB,,,
+LYSMD1,OCDB,,,
+MLLT11,OCDB,,,
+MRPS21,OCDB,,,
+MTMR11,OCDB,,,
+OTUD7B,OCDB,,,
+PLEKHO1,OCDB,,,
+PRPF3,OCDB,,,
+PRUNE,OCDB,,,
+SCNM1,OCDB,,,
+SETDB1,OCDB,,,
+SF3B4,OCDB,,,
+TARS2,OCDB,,,
+TMOD4,OCDB,,,
+VPS45,OCDB,,,
+ZNF687,OCDB,,,
+C3orf35,OCDB,,,
+DCLK3,OCDB,,,
+GPR20,OCDB,,,
+LINC00051,OCDB,,,
+LYPD2,OCDB,,,
+PTP4A3,OCDB,,,
+TSNARE1,OCDB,,,
+ASPHD1,OCDB,,,
+C16orf92,OCDB,,,
+CDIPT,OCDB,,,
+DCTPP1,OCDB,,,
+DOC2A,OCDB,,,
+INO80E,OCDB,,,
+KCTD13,OCDB,,,
+KIF22,OCDB,,,
+MAZ,OCDB,,,
+MVP,OCDB,,,
+PAGR1,OCDB,,,
+PPP4C,OCDB,,,
+PRRT2,OCDB,,,
+QPRT,OCDB,,,
+SEZ6L2,OCDB,,,
+SPN,OCDB,,,
+TAOK2,OCDB,,,
+TBC1D10B,OCDB,,,
+TMEM219,OCDB,,,
+YPEL3,OCDB,,,
+ZNF689,OCDB,,,
+ZNF771,OCDB,,,
+SPAG16,OCDB,,,
+FAM83F,OCDB,,,
+GRAP2,OCDB,,,
+RPS19BP1,OCDB,,,
+TNRC6B,OCDB,,,
+AP4B1-AS1,GWAS,,62,GWAS results
+arhgap8,GWAS,,,
+AS1,GWAS,,,
+AS2,GWAS,,,
+ASB13,GWAS,,,
+CALML3,GWAS,,,
+CALML5,GWAS,,,
+CASC11,GWAS,,,
+CASC21,GWAS,,,
+CASC8,GWAS,,,
+CCAT2,GWAS,,,
+ERCC4,GWAS,,,
+FAM208B,GWAS,,,
+FBXL7,GWAS,,,
+FZD10,GWAS,,,
+GATA6,GWAS,,,
+GDI2,GWAS,,,
+JAKMIP1,GWAS,,,
+KCNB2,GWAS,,,
+KIT,GWAS,,,
+LDOC1L,GWAS,,,
+LINC00207,GWAS,,,
+LINC00229,GWAS,,,
+LINC00331,GWAS,,,
+LOC100130849,GWAS,,,
+LOC100505592,GWAS,,,
+LOC101927311,GWAS,,,
+LOC101927348,GWAS,,,
+LOC101927526,GWAS,,,
+LOC285484,GWAS,,,
+LOC392232,GWAS,,,
+LOR,GWAS,,,
+MAGI3,GWAS,,,
+MKL2,GWAS,,,
+MYC,GWAS,,,
+NET1,GWAS,,,
+PGLYRP3,GWAS,,,
+PGLYRP4,GWAS,,,
+PHTf1,GWAS,,,
+PIWIL1,GWAS,,,
+POU5F1B,GWAS,,,
+PPP2R2C,GWAS,,,
+PRR5,GWAS,,,
+PTPN22,GWAS,,,
+RIMBP2,GWAS,,,
+RSBN1,GWAS,,,
+S100A12,GWAS,,,
+S100A13,GWAS,,,
+S100A14,GWAS,,,
+S100A16,GWAS,,,
+S100A2,GWAS,,,
+S100A3,GWAS,,,
+S100A4,GWAS,,,
+S100A5,GWAS,,,
+S100A6,GWAS,,,
+S100A7,GWAS,,,
+S100A8,GWAS,,,
+S100A9,GWAS,,,
+TUBAL3,GWAS,,,
+ucn3,GWAS,,,
+WFS1,GWAS,,,
+yy1p2,GWAS,,,
+ADAD2,eQTL results,rs6838743,98,total eQTL results
+AIFM2,eQTL results,rs12506519,,rs12506519
+ANKZF1,eQTL results,rs9952159,rs9952159,
+ARPC1B,eQTL results,rs11663827,rs11663827,
+ATF5 ,eQTL results,rs6844422,,
+ATP2A3,eQTL results,rs11663827,rs11663827,
+AUTS2,eQTL results,rs2482998,,
+BTBD14B,eQTL results,rs954467,rs16841562,rs954467
+C16orf58,eQTL results,rs16841562,rs16841562,
+C22orf13,eQTL results,rs1369169,rs1369169,
+C9orf148,eQTL results,rs6838743,,
+C9orf75,eQTL results,rs4574371,,
+CALY,eQTL results,rs17264265,,
+CCDC78,eQTL results,rs6838743,,
+CDC26,eQTL results,rs7911497,,
+CDK2AP1,eQTL results,rs1503212,rs6844422,
+CFL1,eQTL results,rs7911497,,
+CLYBL,eQTL results,rs2482998,,
+CNTNAP1,eQTL results,rs6844422,,
+CPZ,eQTL results,rs2046015,rs7699688,rs954467
+CSF1,eQTL results,rs2482998,rs1260608,
+DHRS13,eQTL results,rs5765830,,
+EGR3,eQTL results,rs9952159,rs9952159,
+FAM100A,eQTL results,rs6838743,rs4286490,
+FBXL12,eQTL results,rs16841562,,
+FKSG24,eQTL results,rs16841562,,
+FKSG43,eQTL results,rs9952159,rs11663827,
+FRMD8,eQTL results,rs9952159,rs11663827,
+FSCN2,eQTL results,rs6844422,rs10021088,rs7683744
+FSTL3,eQTL results,rs954467,,
+GMIP,eQTL results,rs11663827,,
+GNA11,eQTL results,rs7911497,,
+GNG8,eQTL results,rs12506519,rs1511295,
+GPR3,eQTL results,rs4286490,,
+HEBP2,eQTL results,rs1110731,rs1460411,
+HEYL,eQTL results,rs1260608,rs2482998,
+HH3,eQTL results,rs7911497,,
+HIG2,eQTL results,rs9952159,rs8096356,
+HIST1H2AG,eQTL results,rs16841562,,
+HIST1H2AI,eQTL results,rs16841562,,
+HIST1H2AJ,eQTL results,rs16841562,,
+HIST1H2AK,eQTL results,rs16841562,,
+HIST1H2 AL,eQTL results,rs16841562,,
+HIST1H2AM,eQTL results,rs16841562,,
+HNRNPH3,eQTL results,rs1511295,,
+HS3ST2,eQTL results,rs9530835,,
+IK,eQTL results,rs17264265,rs1354296,
+JUND,eQTL results,rs1511295,,
+KIAA0409,eQTL results,rs16841562,,
+LHX2,eQTL results,rs2482998,rs1260608,
+LOC100128371,eQTL results,rs16841562,,
+LOC100132474,eQTL results,rs954467,,
+LOC253842,eQTL results,rs2482998,rs1260608,
+LOC729948,eQTL results,rs7911497,,
+LOC730031,eQTL results,rs6844422,rs10021088,rs1503211
+LOC730314,eQTL results,rs7911497,,
+MAP2K6,eQTL results,rs4574371,,
+MESP1,eQTL results,rs2046015,rs7699688,rs11663827
+MLLT4,eQTL results,rs6844422,rs10021088,rs1503211
+MRPL43,eQTL results,rs7911497,,
+MRPL45,eQTL results,rs8096356,,
+MTHFD1,eQTL results,rs954467,,
+MXI1,eQTL results,rs9952159,rs9952159,
+NFKBIB,eQTL results,rs16841562,,
+NID1,eQTL results,rs5765830,,
+NME1-,eQTL results,rs954467,rs1369169,
+NME2,eQTL results,rs954467,rs1369169,
+NR6A1,eQTL results,rs1260608,rs2482998,
+NUDT16L1,eQTL results,rs1369169,,
+PAQR8,eQTL results,rs2482998,rs1260608,
+PCP2,eQTL results,rs6838743,rs10021088,rs1503211
+PHF23,eQTL results,rs10928684,rs16841562,
+PI16,eQTL results,rs1260608,rs2482998,
+PIGC,eQTL results,rs2482998,rs1260608,
+PIN1,eQTL results,rs954467,,
+PLEK,eQTL results,rs7911497,,
+PPIB,eQTL results,rs11663827,,
+PTPRS,eQTL results,rs7683744,,
+RBM6,eQTL results,rs12506519,rs1511295,rs1354296
+RUFY1,eQTL results,rs6844422,,
+SART3,eQTL results,rs1511295,rs1354296,
+SNHG11,eQTL results,rs16841562,rs1260608,
+SNIP,eQTL results,rs1369169,,
+SNORA39,eQTL results,rs16841562,,
+SNORA60,eQTL results,rs16841562,,
+SPIRE1,eQTL results,rs1503212,rs6844422,
+SS18L1,eQTL results,rs10928684,,
+SUMO1,eQTL results,rs1260608,,
+SUMO1P3,eQTL results,rs2482998,,
+TEX2,eQTL results,rs16841562,,
+THUMPD1,eQTL results,rs10021088,rs1503211,rs12506519
+TNFAIP2,eQTL results,rs2482998,rs1260608,
+TTLL11,eQTL results,rs6838743,,
+USP3,eQTL results,rs1260608,rs2482998,
+VEGFA,eQTL results,rs9952159,,
+WNT9B,eQTL results,rs7911497,,
+ZMYND8,eQTL results,rs1511295,,
+ZNF333,eQTL results,rs7661294,,
+ZNF407,eQTL results,rs1511295,,
+SKI,Lit,rs903908,,
+,,rs260513,,
+RPS16P2,Lit,rs7578149,,
+LOC107985997,Lit,rs6436908,,
+SLC16A14,Lit,rs7599478,,
+MRLP19,Lit,rs3771875,,
+,,rs2422230,,
+,,rs7588344,,
+IAH1,Lit,rs7591166,,
+SP110,Lit,rs6743476,,
+,,rs12694840,,
+CPSF3,Lit,rs2001658,,
+SNTG2,Lit,rs11674954,,
+ADAM17,Lit,rs1048610,,
+CACNA2D3,Lit,rs11924650,,
+PDIA5,Lit,rs870429,,
+FGB,Lit,rs2227421,,
+KCNIP4,Lit,rs1495509,,
+PELO,Lit,rs2648727,,
+COL23A1,Lit,rs603852,,
+CSNK1G3,Lit,rs6884946,,
+LOC100418956,Lit,rs10484428,,
+,,exm2270472,,
+,,rs3010531,,
+RBMXP1,Lit,rs9296598,,
+SLC25A51P1,Lit,rs13191280,,
+ADH5P4,Lit,rs4299807,,
+TAAR1,Lit,rs6569819,,
+LMTK2,Lit,rs7777145,,
+ATP1A1OS,Lit,kgp1254867,,
+HIP1,Lit,rs4731231,,
+,,rs12534422,,
+CLEC5A,Lit,rs1285950,,
+,,rs7794708,,
+PRSS37,Lit,rs10464444,,
+,,rs11765575,,
+RNU105C,Lit,rs2719401,,
+RPL7P33,Lit,rs519761,,
+SHB,Lit,rs776022,,
+PLGRKT,Lit,rs10815211,,
+WDFY4,Lit,rs10857636,,
+GAD2,Lit,exm2267086,,
+MAML2,Lit,rs4144614,,
+EIF4A1P6,Lit,rs1575432,,
+LOC100421611,Lit,rs229836,,
+LOC101929241,Lit,rs2626595,,
+,,rs11628827,,
+FBLN5,Lit,rs1861085,,
+CBLN1,Lit,rs11647643,,
+,,rs12599955,,
+LOC100287225,Lit,rs321849,,
+,,rs321858,,
+SIGLECL1,Lit,rs10410689,,
+SYNDIG1,Lit,rs6132764,,
+LOC284930,Lit,rs9615637,,
