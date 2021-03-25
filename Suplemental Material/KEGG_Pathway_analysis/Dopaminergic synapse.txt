@@ -1,0 +1,17 @@
+P35462 yellow
+Q01959 yellow
+P21917 yellow
+P42263 green
+P48058 green
+Q13224 green
+P14416 yellow
+P21728 yellow
+O00555 red
+P21964 yellow
+O95467 red
+P63092 red
+P84996 yellow
+Q5JWF2 yellow
+Q13936 yellow
+P27482 yellow
+Q9NZT1 red
