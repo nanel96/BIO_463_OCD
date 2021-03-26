@@ -1,459 +1,845 @@
-,GENE,Source,Hormonal?,Annotation,SNP
-0,ACE,OCDB,yes,dopamine receptor,{'rs3773679'}
-1,ACO2,OCDB,yes,solute carrier for glutamate transporters; mutation associated with glutamate-aspartate transport defect,{'rs3087879'}
-2,ADAD2,OCDB,yes,dopamine transporter; mutations assciated with ADHD idiopathic,{'rs4975646'}
-3,ADAM17,OCDB,no,neurexin (cell-surface receptor involved in Ca-dependent neurexin complexes),{'nan'}
-4,ADAMTSL4,OCDB,no,ubiquitin protein ligase 1 (also involved in transcription and RNA splicing),{'nan'}
-5,ADAMTSL4-AS1,OCDB,yes,dopamine receptor,{'nan'}
-6,ADARB2,OCDB,no,signal transduction protein; binds to smad-binding element (SBE); tumor suppressor protein; associated with TGF-B transduction (important in formation of neural tube during development),{'nan'}
-7,ADCY8,OCDB,no,"membrane glycoprotein in follicular dendritic cells or blood cells (RCA);mutations in this gene have been associated with gallbladder carcinomas, mesangiocapillary glomerulonephritis, systemic lupus erythematosus, sarcoidosis and Alzheimer's disease",{'nan'}
-8,ADH5P4,OCDB,yes,glutamate ionotropic receptor,{'nan'}
-9,ADORA2A,OCDB,yes,glutamate ionotropic receptor,{'nan'}
-10,ADRA1A,OCDB,yes,glutamate ionotropic receptor,{'nan'}
-11,ADRA2A,OCDB,yes,glutamate ionotropic receptor,{'nan'}
-12,ADRB1,OCDB,yes,glutamate ionotropic receptor,"{'nan', 'rs12769537'}"
-13,ADRB2,OCDB,yes,glutamate ionotropic receptor,{'nan'}
-14,ADSL,OCDB,yes,glutamate ionotropic receptor,{'rs1805476'}
-15,AIFM2,OCDB,yes,serotonin receptor; mutation in the promoter of this gene has been associated with menstrual cycle-dependent periodic fevers,{'rs6295'}
-16,ALAD,OCDB,no,"mitochondrial protein that binds to superoxide byproducts of oxidative phosphorylation; mutations in this gene have been associated with idiopathic cardiomyopathy (IDC), premature aging, sporadic motor neuron disease, and cancer.",{'rs4880'}
-17,ANKK1,OCDB,yes,vessicle transport involved in neurotransmitter release and regulation,{'nan'}
-18,ANKZF1,OCDB,yes,"closely linked to DRD2 gene, transcribes a Ser/Thr kinase protein",{'rs1800497'}
-19,ANP32E,OCDB,yes,dopamine receptor,{'nan'}
-20,ANXA9,OCDB,yes,dopamine receptor,{'nan'}
-21,AP4B1-AS1,OCDB,no,adrenocetor alpha 2A; involved in regulating the release of neurotransmitter molecules from sympathetic nerves and from adrenergic neurons in the central nervous system,{'nan'}
-22,APOE,OCDB,no (epinephrine),epinephrine and norepinephrine receptor; adrenoceptor beta 1; mediate the physiological effects of the hormone epinephrine and the neurotransmitter norepinephrine,{'nan'}
-23,arhgap8,OCDB,no,apolipoprotein E: catabolism of lipoproteins,{'nan'}
-24,ARNT,OCDB,no,"brain derived neurotrophic factor: nerve growth factor, regulation of stress response and associated with mood disorders. reduced expression leads to alzheimer's parkinson's and huntington's",{'nan'}
-25,ARPC1B,OCDB,no,"calcium voltage-gated channel subunit alpha1 A: mediates hormone or neurotransmitter release, mutations associated with familial hemiplegic migraine and episodic ataxia 1",{'nan'}
-26,AS1,OCDB,no,cadherin 2: development of nervous system,"{'rs6047287', 'rs767619', 'rs247910', 'rs301799', 'rs2842198', 'rs28669119', 'nan', 'rs12704290', 'rs5758265'}"
-27,AS2,OCDB,no,"cholinergic receptor muscarinic 4: function unknown, linked to adenylyl cyclase inhibition, phosphoinositide degeneration, and potassium channel mediation",{'nan'}
-28,ASB13,OCDB,no,"cholinergic receptor muscarinic 5:  function unknown, linked to adenylyl cyclase inhibition, phosphoinositide degeneration, and potassium channel mediation",{'nan'}
-29,ASPHD1,OCDB,no,"cholinergic receptor nicotinic alpha 7 subunit: mediate fast signal transmission at synapses, permeability to calcium ions, receptor binds acetylcholine",{'nan'}
-30,ASTN2,OCDB,no,"D-amino acid oxidase activator: associated with schizophrenia and bipolar affective disorder, activator of D-amino acid oxidase, degrades D-serine",{'nan'}
-31,ATF5 ,OCDB,no,"membrane-associated guanylate kinase (MAGUK) family; form multimeric scaffold for receptors, ion channels and signaling proteins",{'nan'}
-32,ATP1A1OS,OCDB,no,DLG associated protein 1,{'nan'}
-33,ATP2A3,OCDB,no,DLG associated protein 3,{'nan'}
-34,AUTS2,OCDB,no (estrogen),estrogen receptor 2,{'nan'}
-35,BDKRB2,OCDB,no,fas apoptotic inhibitory molecule 2,{'nan'}
-36,BDNF,OCDB,no,"formin 1: adherens junction, actin cables",{'nan'}
-37,BOLA1,OCDB,no,"glutamate decarboxylase 2: not active in brain tissue, catalyzing the production of gamma-aminobutyric acid from L-glutamic acid",{'nan'}
-38,BRAF,OCDB,no,glutathione S-transferase pi 1: detoxification and xenobiotic metabolism,{'nan'}
-39,BTBD14B,OCDB,no,hypopolarization activated cyclic nucleotide gated potassium: cardiac pacemaking process,{'nan'}
-40,BZRAP1,OCDB,no ,homeobox B8: nuclear protein with a homeobox DNA-binding domain; mutations associated with OCD,{'nan'}
-41,C16orf58,OCDB,no ,"Ras oncogene family; function in signal transduction pathway, GTPase",{'nan'}
-42,C16orf92,OCDB,no ,5-hydroxytryptamine receptor 1D,{'nan'}
-43,C22orf13,OCDB,no ,5-hydroxytryptamine receptor 2A,{'nan'}
-44,C3orf35,OCDB,no ,5-hydroxytryptamine receptor 3A,{'nan'}
-45,C9orf148,OCDB,no ,IQ motif containing K: binding site for EF_hand proteins; associated with OCD,{'nan'}
-46,C9orf75,OCDB,no ,"potassium calcium-activated channel subfamily N member 3: encodes an integral membrane protein that forms a voltage-independent calcium-activated channel, which is thought to regulate neuronal excitability by contributing to the slow component of synaptic AHP",{'nan'}
-47,CACNA1A,OCDB,no ,nucleolar protein that interacts with zinc finger 106 protein. The encoded protein has several of the same characteristics as nucleostemin and may be involved in testis development,{'nan'}
-48,CACNA1C,OCDB,yes, This gene also plays a role in the development of dopamine producing neurons during embryogenesis,"{'nan', 'rs10491964', 'rs4298967'}"
-49,CACNA2D3,OCDB,no ,membrane-bound receptor and member of the melanocortin receptor family. The encoded protein interacts with adrenocorticotropic and MSH hormones and is mediated by G proteins,"{'nan', 'rs11924650'}"
-50,CALML3,OCDB,no ,"This gene encodes a homeobox protein belonging to the TALE ('three amino acid loop extension') family of homeodomain-containing proteins. TALE homeobox proteins are highly conserved transcription regulators, and several members have been shown to be essential contributors to developmental programs",{'nan'}
-51,CALML5,OCDB,no ,"catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a co-substrate for homocysteine remethylation to methionine. Genetic variation in this gene influences susceptibility to occlusive vascular disease, neural tube defects, colon cancer and acute leukemia, and mutations in this gene are associated with methylenetetrahydrofolate reductase deficiency",{'nan'}
-52,CALY,OCDB,no ,melatonin receptor 1B,{'nan'}
-53,CASC11,OCDB,no ,nanog homeobox retrogene P8: reprogramming of cancer cells,{'nan'}
-54,CASC21,OCDB,no ,nk2 homeobox 1: thyroid-specific transcription factor,{'nan'}
-55,CASC8,OCDB,no ,nitric oxide synthase 1 adaptor protein,{'nan'}
-56,CBLN1,OCDB,no ,nitric oxide synthase 2: expressed in liver,{'nan'}
-57,CCAT2,OCDB,no ,neurotrophic receptor tyrosine kinase 3: MAPK signalling pathway for binds neurotrophins,{'nan'}
-58,CCDC78,OCDB,no ,pbx homeobox 1: transcription factor regulated osteogenesis and skeletal patterning,{'nan'}
-59,CCKBR,OCDB,no ,presenilin 1,{'nan'}
-60,CCL2,OCDB,no ,"rap1 gtpase activating protein: receptor-linked signaling pathways that control cell growth and differentiation. RAP1 plays a role in diverse processes such as cell proliferation, adhesion, differentiation, and embryogenesis",{'nan'}
-61,CCND2,OCDB,no ,regulator of G protein signaling 2: mediator of myeloid differentiation and may play a role in leukemogenesis,{'nan'}
-62,CDC26,OCDB,no ,"nuclear hormone receptor, regulates transcription of circadian rhythm genes",{'nan'}
-63,CDC42SE1,OCDB,no ,"ryanodine receptor 3: ryanodine receptor, which functions to release calcium from intracellular storage for use in many cellular processes",{'nan'}
-64,CDH2,OCDB,yes (glutamate transporter),solute carrier family 1 member 2: glutamate transport - principal transporter that clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system,{'nan'}
-65,CDH9,OCDB,yes,,{'nan'}
-66,CDIPT,OCDB,yes,,{'nan'}
-67,CDK2AP1,OCDB,yes,,{'nan'}
-68,CFL1,OCDB,no ,SLITRK protein; involved in neurite outgrowth,{'nan'}
-69,CHADL,OCDB,no ,,{'nan'}
-70,CHRM1,OCDB,no ,synaptic vesicle proteins,{'nan'}
-71,CHRM2,OCDB,yes,tryptophan hydrozylase 1: catalyzes the first and rate limiting step in the biosynthesis of serotonin,{'nan'}
-72,CHRM4,OCDB,yes,tryptophan hydrozylase 2: catalyzes the first and rate limiting step in the biosynthesis of serotonin,{'nan'}
-73,CHRM5,OCDB,no,uncoupling protein 2: facilitate the transfer of anions from the inner to the outer mitochondrial membrane and the return transfer of protons from the outer to the inner mitochondrial membrane,{'nan'}
-74,CHRNA4,OCDB,no,"adenosine A2a receptor: seven-pass transmembrane proteins that respond to extracellular cues and activate intracellular signal transduction pathways, plays an important role in many biological functions, such as cardiac rhythm and circulation, cerebral and renal blood flow, immune function, pain regulation, and sleep. It has been implicated in pathophysiological conditions such as inflammatory diseases and neurodegenerative disorders",{'nan'}
-75,CHRNA7,OCDB,no,"cholinergic receptor nicotinic alpha 4 subunit: nicotinic acetylcholine receptor, which belongs to a superfamily of ligand-gated ion channels that play a role in fast signal transmission at synapses",{'nan'}
-76,CLEC5A,OCDB,yes,"catechol-O-methyltransferase: catalyzes the transfer of a methyl group from S-adenosylmethionine to catecholamines, including the neurotransmitters dopamine, epinephrine, and norepinephrine","{'nan', 'rs1285950'}"
-77,CLYBL,OCDB,no ,"cytochrome P450 family protein: catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids; substrates include antidepressants, antipsychotics, analgesics and antitussives, beta adrenergic blocking agents, antiarrythmics and antiemetics",{'nan'}
-78,CNR1,OCDB,no (growth hormone),"growth hormone releasing hormone: produced in the hypothalamus and cleaved to generate the mature factor, known as somatoliberin, which acts to stimulate growth hormone release from the pituitary gland",{'nan'}
-79,CNTNAP1,OCDB,no,"GNAS complex locus: highly imprinted, Mutations in this gene result in pseudohypoparathyroidism type 1a, pseudohypoparathyroidism type 1b, Albright hereditary osteodystrophy, pseudopseudohypoparathyroidism, McCune-Albright syndrome, progressive osseus heteroplasia, polyostotic fibrous dysplasia of bone, and some pituitary tumors",{'nan'}
-80,COL23A1,OCDB,yes,5-hydroxytryptamine receptor 2B:  receptors for 5-hydroxytryptamine (serotonin) that belongs to the G-protein coupled receptor 1 family,{'nan'}
-81,COMT,OCDB,no,"interleukin 1 beta: mediator of the inflammatory response, and is involved in a variety of cellular activities, including cell proliferation, differentiation, and apoptosis",{'nan'}
-82,CPSF3,OCDB,no,"oligodendrocyte transcription factor 2: basic helix-loop-helix transcription factor which is expressed in oligodendroglial tumors of the brain, associated with Down Syndrome",{'nan'}
-83,CPZ,OCDB,no,"proopiomelanocortin: active in pituitary, Mutations in this gene have been associated with early onset obesity, adrenal insufficiency, and red hair pigmentation",{'nan'}
-84,CR1,OCDB,no,proline dehydrogenase 1: mitochondrial protein that catalyzes the first step in proline degradation. Mutations in this gene are associated with hyperprolinemia type 1 and susceptibility to schizophrenia 4 (SCZD4),{'nan'}
-85,CRHR2,OCDB,,protein tyrosine phosphatase non-receptor type 1: catalyze the hydrolysis of the phosphate monoesters specifically on tyrosine residues,{'nan'}
-86,CSF1,OCDB,,,{'nan'}
-87,CSNK1G3,OCDB,,,{'nan'}
-88,CTNND1,OCDB,,,"{'rs11570190', 'nan'}"
-89,CTSK,OCDB,,,{'nan'}
-90,CTSS,OCDB,,,{'nan'}
-91,CXCL8,OCDB,,,{'nan'}
-92,CYP2D6,OCDB,,,{'nan'}
-93,DAOA,OCDB,,,{'nan'}
-94,DBH,OCDB,,,{'nan'}
-95,DCC,OCDB,,,"{'rs8084351', 'nan'}"
-96,DCLK3,OCDB,,,{'nan'}
-97,DCTPP1,OCDB,,,{'nan'}
-98,DESI1,OCDB,,,{'nan'}
-99,DHRS13,OCDB,,,{'nan'}
-100,DLG4,OCDB,,,{'nan'}
-101,DLGAP1,OCDB,,,{'nan'}
-102,DLGAP2,OCDB,,,{'nan'}
-103,DLGAP3,OCDB,,,{'nan'}
-104,DOC2A,OCDB,,,{'nan'}
-105,DRD1,OCDB,,,{'nan'}
-106,DRD2,OCDB,,,"{'rs2514218', 'nan'}"
-107,DRD3,OCDB,,,{'nan'}
-108,DRD4,OCDB,,,{'nan'}
-109,DTNBP1,OCDB,,,{'nan'}
-110,ECM1,OCDB,,,{'nan'}
-111,EFNA5,OCDB,,,{'nan'}
-112,EGF,OCDB,,,{'nan'}
-113,EGR3,OCDB,,,{'nan'}
-114,EIF4A1P6,OCDB,,,{'nan'}
-115,EP300,OCDB,,,{'nan'}
-116,ERCC4,OCDB,,,{'nan'}
-117,ESR1,OCDB,,,{'nan'}
-118,ESR2,OCDB,,,"{'rs915057', 'nan'}"
-119,FAIM2,OCDB,,,{'nan'}
-120,FAM100A,OCDB,,,{'nan'}
-121,FAM208B,OCDB,,,{'nan'}
-122,FAM63A,OCDB,,,{'nan'}
-123,FAM83F,OCDB,,,{'nan'}
-124,FBLN5,OCDB,,,{'nan'}
-125,FBXL12,OCDB,,,{'nan'}
-126,FBXL7,OCDB,,,{'nan'}
-127,FCGR1A,OCDB,,,{'nan'}
-128,FGB,OCDB,,,{'nan'}
-129,FKSG24,OCDB,,,{'nan'}
-130,FKSG43,OCDB,,,{'nan'}
-131,FMN1,OCDB,,,{'nan'}
-132,FOXD4,OCDB,,,{'nan'}
-133,FRMD8,OCDB,,,{'nan'}
-134,FSCN2,OCDB,,,{'nan'}
-135,FSTL3,OCDB,,,{'nan'}
-136,FZD10,OCDB,,,{'nan'}
-137,GABBR1,OCDB,,,{'nan'}
-138,GABRA1,OCDB,,,{'nan'}
-139,GABRA6,OCDB,,,{'rs2271275'}
-140,GABRG2,OCDB,,,{'nan'}
-141,GAD2,OCDB,,,{'nan'}
-142,GAD2,OCDB,,,{'nan'}
-143,GATA6,OCDB,,,{'nan'}
-144,GDI2,OCDB,,,{'rs945032'}
-145,GHRH,OCDB,,,{'nan'}
-146,GMIP,OCDB,,,"{'nan', 'rs880090'}"
-147,GNA11,OCDB,,,{'nan'}
-148,GNAS,OCDB,,,{'nan'}
-149,GNG8,OCDB,,,{'nan'}
-150,GPR20,OCDB,,,{'nan'}
-151,GPR3,OCDB,,,{'nan'}
-152,GPR63,OCDB,,,{'nan'}
-153,GRAP2,OCDB,,,{'nan'}
-154,GRIA3,OCDB,,,{'nan'}
-155,GRIA4,OCDB,,,{'nan'}
-156,GRIK1,OCDB,,,{'nan'}
-157,GRIK2,OCDB,,,{'nan'}
-158,GRIK3,OCDB,,,{'nan'}
-159,GRIK5,OCDB,,,{'nan'}
-160,GRIN2B,OCDB,,,{'nan'}
-161,GSTP1,OCDB,,,{'nan'}
-162,HCN4,OCDB,,,{'nan'}
-163,HEBP2,OCDB,,,{'nan'}
-164,HEYL,OCDB,,,{'nan'}
-165,HH3,OCDB,,,{'nan'}
-166,HIG2,OCDB,,,{'nan'}
-167,HIP1,OCDB,,,{'nan'}
-168,HIST1H2 AL,OCDB,,,{'nan'}
-169,HIST1H2AG,OCDB,,,{'nan'}
-170,HIST1H2AI,OCDB,,,{'nan'}
-171,HIST1H2AJ,OCDB,,,{'nan'}
-172,HIST1H2AK,OCDB,,,{'nan'}
-173,HIST1H2AM,OCDB,,,{'nan'}
-174,HIST2H2AA4,OCDB,,,{'nan'}
-175,HIST2H2AB,OCDB,,,{'nan'}
-176,HIST2H2AC,OCDB,,,{'nan'}
-177,HIST2H2BE,OCDB,,,{'nan'}
-178,HIST2H3A,OCDB,,,{'nan'}
-179,HIST2H3C,OCDB,,,{'nan'}
-180,HIST2H4B,OCDB,,,{'nan'}
-181,HNRNPH3,OCDB,,,{'nan'}
-182,HOXB8,OCDB,,,{'nan'}
-183,HRAS,OCDB,,,{'nan'}
-184,HRH1,OCDB,,,{'nan'}
-185,HS3ST2,OCDB,,,{'nan'}
-186,HTR1A,OCDB,,,{'nan'}
-187,HTR1B,OCDB,,,{'nan'}
-188,HTR1D,OCDB,,,{'nan'}
-189,HTR2A,OCDB,,,{'nan'}
-190,HTR2B,OCDB,,,{'nan'}
-191,HTR3A,OCDB,,,{'nan'}
-192,HTR3C,OCDB,,,{'nan'}
-193,HTR3E,OCDB,,,{'nan'}
-194,IAH1,OCDB,,,{'nan'}
-195,IK,OCDB,,,{'nan'}
-196,IL1B,OCDB,,,{'nan'}
-197,IL6,OCDB,,,{'nan'}
-198,INO80E,OCDB,,,{'nan'}
-199,IQCK,OCDB,,,{'nan'}
-200,JAKMIP1,OCDB,,,{'nan'}
-201,JUND,OCDB,,,{'nan'}
-202,KCNB2,OCDB,,,{'nan'}
-203,KCNIP4,OCDB,,,{'nan'}
-204,KCNN3,OCDB,,,{'nan'}
-205,KCTD13,OCDB,,,{'nan'}
-206,KDM4C,OCDB,,,{'nan'}
-207,KIAA0409,OCDB,,,{'nan'}
-208,KIF22,OCDB,,,{'nan'}
-209,KIT,OCDB,,,{'nan'}
-210,KLHL32,OCDB,,,{'nan'}
-211,KNOP1,OCDB,,,{'nan'}
-212,L3MBTL2,OCDB,,,"{'nan', 'rs5758265'}"
-213,LDOC1L,OCDB,,,{'nan'}
-214,LHX2,OCDB,,,{'nan'}
-215,LINC00051,OCDB,,,{'nan'}
-216,LINC00207,OCDB,,,{'nan'}
-217,LINC00229,OCDB,,,{'nan'}
-218,LINC00331,OCDB,,,{'nan'}
-219,LMTK2,OCDB,,,{'nan'}
-220,LMX1A,OCDB,,,{'nan'}
-221,LOC100128371,OCDB,,,{'nan'}
-222,LOC100130849,OCDB,,,{'nan'}
-223,LOC100132474,OCDB,,,{'nan'}
-224,LOC100287225,OCDB,,,{'nan'}
-225,LOC100418956,OCDB,,,{'nan'}
-226,LOC100421611,OCDB,,,{'nan'}
-227,LOC100505592,OCDB,,,{'nan'}
-228,LOC101927311,OCDB,,,{'nan'}
-229,LOC101927348,OCDB,,,{'nan'}
-230,LOC101927526,OCDB,,,{'nan'}
-231,LOC101929241,OCDB,,,{'nan'}
-232,LOC107985997,OCDB,,,{'nan'}
-233,LOC253842,OCDB,,,{'nan'}
-234,LOC284930,OCDB,,,{'nan'}
-235,LOC285484,OCDB,,,{'nan'}
-236,LOC392232,OCDB,,,{'nan'}
-237,LOC729948,OCDB,,,{'nan'}
-238,LOC730031,OCDB,,,{'nan'}
-239,LOC730314,OCDB,,,{'nan'}
-240,LOR,OCDB,,,{'nan'}
-241,LYPD2,GWAS,62,GWAS results,{'nan'}
-242,LYSMD1,GWAS,,,{'nan'}
-243,MAGI3,GWAS,,,{'nan'}
-244,MAML2,GWAS,,,{'nan'}
-245,MAP2K6,GWAS,,,{'nan'}
-246,MAZ,GWAS,,,{'nan'}
-247,MC4R,GWAS,,,{'nan'}
-248,MEIS2,GWAS,,,{'nan'}
-249,MESP1,GWAS,,,{'nan'}
-250,MKL2,GWAS,,,{'nan'}
-251,MLLT11,GWAS,,,{'nan'}
-252,MLLT4,GWAS,,,{'nan'}
-253,MOG,GWAS,,,{'nan'}
-254,MRLP19,GWAS,,,{'nan'}
-255,MRPL43,GWAS,,,{'nan'}
-256,MRPL45,GWAS,,,{'nan'}
-257,MRPS21,GWAS,,,{'nan'}
-258,MRPS33,GWAS,,,{'nan'}
-259,MTHFD1,GWAS,,,{'nan'}
-260,MTHFR,GWAS,,,{'nan'}
-261,MTMR11,GWAS,,,{'nan'}
-262,MTNR1A,GWAS,,,{'nan'}
-263,MTNR1B,GWAS,,,{'nan'}
-264,MVP,GWAS,,,{'nan'}
-265,MXI1,GWAS,,,{'nan'}
-266,MYC,GWAS,,,{'nan'}
-267,NANOGP8,GWAS,,,{'nan'}
-268,NDUFA4,GWAS,,,{'nan'}
-269,NET1,GWAS,,,{'nan'}
-270,NEUROD6,GWAS,,,{'nan'}
-271,NFKBIB,GWAS,,,{'nan'}
-272,NFKBIL1,GWAS,,,{'nan'}
-273,NID1,GWAS,,,{'nan'}
-274,NKX2-1,GWAS,,,{'nan'}
-275,NME1-,GWAS,,,{'nan'}
-276,NME2,GWAS,,,{'nan'}
-277,NOS1AP,GWAS,,,{'nan'}
-278,NOS2,GWAS,,,{'nan'}
-279,NOS3,GWAS,,,{'nan'}
-280,NPSR1,GWAS,,,{'nan'}
-281,NR6A1,GWAS,,,{'nan'}
-282,NRCAM,GWAS,,,{'nan'}
-283,NRXN1,GWAS,,,{'nan'}
-284,NTRK2,GWAS,,,{'nan'}
-285,NTRK3,GWAS,,,{'nan'}
-286,NUDT16L1,GWAS,,,{'nan'}
-287,OLFM1,GWAS,,,{'nan'}
-288,OLIG2,GWAS,,,{'nan'}
-289,OPRM1,GWAS,,,{'nan'}
-290,OR5AK2,GWAS,,,{'nan'}
-291,OR5B21,GWAS,,,{'nan'}
-292,OTUD7B,GWAS,,,{'nan'}
-293,OXTR,GWAS,,,{'nan'}
-294,PAGR1,GWAS,,,{'nan'}
-295,PAQR8,GWAS,,,{'nan'}
-296,PBX1,GWAS,,,{'nan'}
-297,PCP2,GWAS,,,{'nan'}
-298,PDE10A,GWAS,,,{'nan'}
-299,PDIA5,GWAS,,,{'nan'}
-300,PELO,GWAS,,,{'nan'}
-301,PGLYRP3,GWAS,,,{'nan'}
-302,PGLYRP4,GWAS,,,{'nan'}
-303,PHF23,eQTL results,98,total eQTL results,{'rs6838743'}
-304,PHTf1,eQTL results,,,"{'rs1511295', 'rs12506519'}"
-305,PI16,eQTL results,,,{'rs9952159'}
-306,PIGC,eQTL results,,,{'rs11663827'}
-307,PIN1,eQTL results,,,{'rs6844422'}
-308,PIWIL1,eQTL results,,,{'rs11663827'}
-309,PLEK,eQTL results,,,{'rs2482998'}
-310,PLEKHO1,eQTL results,,,"{'rs954467', 'rs1369169', 'rs16841562'}"
-311,PLGRKT,eQTL results,,,{'rs16841562'}
-312,PMM1,eQTL results,,,{'rs1369169'}
-313,POMC,eQTL results,,,{'rs6838743'}
-314,POU5F1B,eQTL results,,,{'rs4574371'}
-315,PPIB,eQTL results,,,{'rs17264265'}
-316,PPP2R2C,eQTL results,,,{'rs6838743'}
-317,PPP4C,eQTL results,,,{'rs7911497'}
-318,PRODH,eQTL results,,,"{'rs6844422', 'rs1503212'}"
-319,PRPF3,eQTL results,,,{'rs7911497'}
-320,PRR5,eQTL results,,,{'rs2482998'}
-321,PRRT2,eQTL results,,,{'rs6844422'}
-322,PRSS37,eQTL results,,,"{'rs1369169', 'rs1511295', 'rs2046015', 'rs6844422', 'rs11663827', 'rs954467', 'rs7699688'}"
-323,PRUNE,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-324,PSEN1,eQTL results,,,{'rs5765830'}
-325,PTP4A3,eQTL results,,,{'rs9952159'}
-326,PTPN1,eQTL results,,,"{'rs6838743', 'rs4286490'}"
-327,PTPN22,eQTL results,,,{'rs16841562'}
-328,PTPRD,eQTL results,,,{'rs16841562'}
-329,PTPRS,eQTL results,,,"{'rs9952159', 'rs11663827'}"
-330,QPRT,eQTL results,,,"{'rs9952159', 'rs11663827'}"
-331,RANGAP1,eQTL results,,,"{'rs6844422', 'rs10021088', 'rs1503211', 'rs7683744'}"
-332,RAP1GAP,eQTL results,,,{'rs954467'}
-333,RBFOX1,eQTL results,,,"{'rs11663827', 'rs7193263'}"
-334,RBM6,eQTL results,,,{'rs7911497'}
-335,RBMXP1,eQTL results,,,"{'rs1511295', 'rs12506519'}"
-336,RBX1,eQTL results,,,{'rs4286490'}
-337,RGS2,eQTL results,,,"{'rs1460411', 'rs1110731'}"
-338,RIMBP2,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-339,RNU105C,eQTL results,,,{'rs7911497'}
-340,RORA,eQTL results,,,"{'rs8096356', 'rs9952159'}"
-341,RPL7P33,eQTL results,,,{'rs16841562'}
-342,RPS16P2,eQTL results,,,"{'rs7578149', 'rs16841562'}"
-343,RPS19BP1,eQTL results,,,"{'rs5757717', 'rs16841562'}"
-344,RSBN1,eQTL results,,,{'rs16841562'}
-345,RUFY1,eQTL results,,,{'rs16841562'}
-346,RYR3,eQTL results,,,{'rs16841562'}
-347,S100A12,eQTL results,,,{'rs1511295'}
-348,S100A13,eQTL results,,,{'rs9530835'}
-349,S100A14,eQTL results,,,"{'rs1354296', 'rs17264265'}"
-350,S100A16,eQTL results,,,{'rs1511295'}
-351,S100A2,eQTL results,,,{'rs16841562'}
-352,S100A3,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-353,S100A4,eQTL results,,,{'rs16841562'}
-354,S100A5,eQTL results,,,{'rs954467'}
-355,S100A6,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-356,S100A7,eQTL results,,,"{'rs28696717', 'rs7911497'}"
-357,S100A8,eQTL results,,,"{'rs6844422', 'rs10021088', 'rs1511295', 'rs1503211'}"
-358,S100A9,eQTL results,,,{'rs7911497'}
-359,SART3,eQTL results,,,{'rs4574371'}
-360,SCL18A1,eQTL results,,,"{'rs2046015', 'rs1369169', 'rs7699688', 'rs11663827'}"
-361,SCN2A,eQTL results,,,"{'rs6844422', 'rs10021088', 'rs1511295', 'rs1503211'}"
-362,SCN5A,eQTL results,,,{'rs7911497'}
-363,SCNM1,eQTL results,,,{'rs8096356'}
-364,SETD5,eQTL results,,,{'rs954467'}
-365,SETDB1,eQTL results,,,{'rs9952159'}
-366,SEZ6L2,eQTL results,,,{'rs16841562'}
-367,SF3B4,eQTL results,,,{'rs5765830'}
-368,SGCE,eQTL results,,,"{'rs954467', 'rs1369169'}"
-369,SHB,eQTL results,,,"{'rs954467', 'rs1369169'}"
-370,SIGLECL1,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-371,SKI,eQTL results,,,{'rs1369169'}
-372,SLC16A14,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-373,SLC1A1,eQTL results,,,"{'rs1511295', 'rs4286490', 'rs6838743', 'rs10021088', 'rs12506519', 'rs1503211'}"
-374,SLC1A2,eQTL results,,,"{'rs16841562', 'rs10928684'}"
-375,SLC22A3,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-376,SLC25A17,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-377,SLC25A51P1,eQTL results,,,{'rs954467'}
-378,SLC43A1,eQTL results,,,{'rs7911497'}
-379,SLC6A2,eQTL results,,,{'rs11663827'}
-380,SLC6A3,eQTL results,,,{'rs7683744'}
-381,SLC6A4,eQTL results,,,"{'rs7686545', 'rs1511295', 'rs1354296', 'rs12506519'}"
-382,SLC6A5,eQTL results,,,{'rs6844422'}
-383,SLITRK1,eQTL results,,,"{'rs1511295', 'rs1354296'}"
-384,SLITRK3,eQTL results,,,"{'rs16841562', 'rs1260608'}"
-385,SLITRK5,eQTL results,,,{'rs1369169'}
-386,SMAD4,eQTL results,,,{'rs16841562'}
-387,SNAP25,eQTL results,,,{'rs16841562'}
-388,SNHG11,eQTL results,,,"{'rs6844422', 'rs1503212'}"
-389,SNIP,eQTL results,,,{'rs10928684'}
-390,SNORA39,eQTL results,,,{'rs1260608'}
-391,SNORA60,eQTL results,,,{'rs2482998'}
-392,SNTG2,eQTL results,,,{'rs16841562'}
-393,SOD2,eQTL results,,,"{'rs1503211', 'rs10021088', 'rs1511295', 'rs12506519'}"
-394,SP110,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-395,SPAG16,eQTL results,,,"{'rs9677504', 'rs6838743'}"
-396,SPIRE1,eQTL results,,,"{'rs2482998', 'rs1260608'}"
-397,SPN,eQTL results,,,{'rs9952159'}
-398,SS18L1,eQTL results,,,{'rs7911497'}
-399,ST13,eQTL results,,,{'rs1511295'}
-400,SUMO1,eQTL results,,,{'rs7661294'}
-401,SUMO1P3,eQTL results,,,{'rs1511295'}
-402,SV2A,Lit,,,{'rs903908'}
-403,SYNDIG1,,,,{'rs260513'}
-404,TAAR1,Lit,,,"{'rs7578149', 'rs6569819'}"
-405,TAOK2,Lit,,,{'rs6436908'}
-406,TARS2,Lit,,,{'rs7599478'}
-407,TBC1D10B,Lit,,,{'rs3771875'}
-408,TEF,,,,{'rs2422230'}
-409,TEX2,,,,{'rs7588344'}
-410,THUMPD1,Lit,,,{'rs7591166'}
-411,TMEM219,Lit,,,"{'rs6743476', 'rs8054556'}"
-412,TMOD4,,,,{'rs12694840'}
-413,TMX2-CTNND1,Lit,,,{'rs2001658'}
-414,TNF,Lit,,,{'rs11674954'}
-415,TNFAIP2,Lit,,,{'rs1048610'}
-416,TNRC6B,Lit,,,{'rs11924650'}
-417,TOB2,Lit,,,{'rs870429'}
-418,TOR1A,Lit,,,{'rs2227421'}
-419,TPH1,Lit,,,{'rs1495509'}
-420,TPH2,Lit,,,{'rs2648727'}
-421,TRIM32,Lit,,,{'rs603852'}
-422,TSNARE1,Lit,,,"{'rs4129585', 'rs6884946'}"
-423,TTLL11,Lit,,,{'rs10484428'}
-424,TUBAL3,,,,{'exm2270472'}
-425,ucn3,,,,{'rs3010531'}
-426,UCP2,Lit,,,{'rs9296598'}
-427,USP3,Lit,,,{'rs13191280'}
-428,VEGFA,Lit,,,{'rs4299807'}
-429,VPS45,Lit,,,{'rs6569819'}
-430,WDFY4,Lit,,,{'rs7777145'}
-431,WFS1,Lit,,,{'kgp1254867'}
-432,WNT9B,Lit,,,{'rs4731231'}
-433,WWP1,,,,{'rs12534422'}
-434,XPNPEP3,Lit,,,{'rs1285950'}
-435,XRCC6,,,,{'rs7794708'}
-436,YPEL3,Lit,,,{'rs10464444'}
-437,yy1p2,,,,{'rs11765575'}
-438,ZC3H7B,Lit,,,{'rs2719401'}
-439,ZMYND8,Lit,,,{'rs519761'}
-440,ZNF333,Lit,,,{'rs776022'}
-441,ZNF407,Lit,,,{'rs10815211'}
-442,ZNF687,Lit,,,{'rs10857636'}
-443,ZNF689,Lit,,,{'exm2267086'}
-444,ZNF771,Lit,,,{'rs4144614'}
-445,LINC00378,Lit,,,{'rs1575432'}
-446,,Lit,,,{'rs229836'}
-447,LINC02325,Lit,,,{'rs2626595'}
-448,LINC02325,,,,{'rs11628827'}
-449,FBLN5,Lit,,,{'rs1861085'}
-450,AC044798.3,Lit,,,{'rs11647643'}
-451,AC044798.3,,,,{'rs12599955'}
-452,LINC01630,Lit,,,{'rs321849'}
-453,LINC01630,,,,{'rs321858'}
-454,SIGLECL1,Lit,,,{'rs10410689'}
-455,,Lit,,,{'rs6132764'}
-456,AL117329.1,Lit,,,{'rs9615637'}
-457,AC063977.3,Lit,,,{'rs10410689'}
+,GENE,SNP,Source,Hormonal?,Annotation
+0,LINC02225,rs1844437,GWAS Catalog,,
+1,LINC02101,rs1844437,GWAS Catalog,,
+2,LINC01581,rs2388436,GWAS Catalog,,
+3,H3P40,rs2388436,GWAS Catalog,,
+4,AL391840.3,rs3747767,GWAS Catalog,,
+5,AL391840.2,rs3747767,GWAS Catalog,,
+6,AC098828.1,rs7578149,GWAS Catalog,,
+7,RPS16P2,rs7578149,GWAS Catalog,,
+8,AC009950.1,rs6436908,GWAS Catalog,,
+9,CACNA2D3,rs11924650,GWAS Catalog,,
+10,RNU7-51P,rs229836,GWAS Catalog,,
+11,RNU6ATAC28P,rs229836,GWAS Catalog,,
+12,AL117329.1,rs9615637,GWAS Catalog,,
+13,MGAM,rs1285950,GWAS Catalog,,
+15,CLEC5A,rs1285950,GWAS Catalog,,
+16,TAAR2,rs6569819,GWAS Catalog,,
+17,TAAR1,rs6569819,GWAS Catalog,,
+18,TMTC1,rs2220130,GWAS Catalog,,
+19,AC023511.3,rs2220130,GWAS Catalog,,
+20,AC079804.3,rs16876441,GWAS Catalog,,
+21,ATP13A4,rs6764121,GWAS Catalog,,
+22,GPR135,rs1755715,GWAS Catalog,,
+23,NHLRC2,rs12769537,GWAS Catalog,,
+24,ADRB1,rs12769537,GWAS Catalog,,
+25,AC025822.2,rs76983293,GWAS Catalog,,
+26,LINC00702,rs76983293,GWAS Catalog,,
+27,LMO7,rs75502311,GWAS Catalog,,
+28,GRID2,rs13110899,GWAS Catalog,,
+29,TUSC3,rs352766,GWAS Catalog,,
+30,PPM1AP1,rs352766,GWAS Catalog,,
+31,AC087888.1,rs1017722,GWAS Catalog,,
+32,AC093027.1,rs1017722,GWAS Catalog,,
+33,GRID2,rs1840717,GWAS Catalog,,
+34,RPL23AP39,rs12635725,GWAS Catalog,,
+35,RPL21P17,rs12635725,GWAS Catalog,,
+36,S100A7,rs28696717,GWAS Catalog,,
+37,RN7SL44P,rs28696717,GWAS Catalog,,
+38,CD320,rs2927709,GWAS Catalog,,
+39,SLCO1C1,rs11502414,GWAS Catalog,,
+40,SLCO1B3,rs11502414,GWAS Catalog,,
+41,AC107892.1,rs73001203,GWAS Catalog,,
+42,AC087399.1,rs73001203,GWAS Catalog,,
+43,TUBGCP5,rs7183340,GWAS Catalog,,
+45,AC026333.3,rs2454707,GWAS Catalog,,
+46,AC011228.3,rs11768490,GWAS Catalog,,
+47,AC011228.2,rs11768490,GWAS Catalog,,
+48,PDE4D,rs6450514,GWAS Catalog,,
+49,CHCHD2P3,rs1260555,GWAS Catalog,,
+50,LSM14A,rs1260555,GWAS Catalog,,
+51,ZNF804B,rs12536521,GWAS Catalog,,
+52,AC002383.1,rs12536521,GWAS Catalog,,
+53,ADCK1,rs2364841,GWAS Catalog,,
+54,AC021683.5,rs2077613,GWAS Catalog,,
+55,AL078599.2,rs79886445,GWAS Catalog,,
+56,LINC01526,rs79886445,GWAS Catalog,,
+57,AL353595.1,rs4401971,GWAS Catalog,,
+58,AC022140.1,rs6876547,GWAS Catalog,,
+59,RNU6-374P,rs6876547,GWAS Catalog,,
+60,TUBB3,rs4785741,GWAS Catalog,,
+61,DEF8,rs4785741,GWAS Catalog,,
+62,AL078459.1,rs72722664,GWAS Catalog,,
+63,IMPA2,rs2075824,GWAS Catalog,,
+64,LINC02172,rs11735612,GWAS Catalog,,
+65,AC022690.1,rs75216060,GWAS Catalog,,
+66,AC023538.1,rs75216060,GWAS Catalog,,
+67,FBXW12,rs17080138,GWAS Catalog,,
+68,RHOJ,rs59093387,GWAS Catalog,,
+69,DRAXIN,rs12045323,GWAS Catalog,,
+70,LRRC20,rs9731813,GWAS Catalog,,
+71,AC009654.1,rs8032150,GWAS Catalog,,
+72,RPLP0P1,rs6034559,GWAS Catalog,,
+73,AL135938.1,rs6034559,GWAS Catalog,,
+74,PTH2R,rs78907274,GWAS Catalog,,
+75,UFL1-AS1,rs767619,GWAS Catalog,,
+76,nan,rs12504244,GWAS Catalog,,
+77,CARMIL1,rs75063949,GWAS Catalog,,
+78,TAFA2,rs11174202,GWAS Catalog,,
+79,LINC02395,rs297941,GWAS Catalog,,
+80,AL590608.1,rs9499708,GWAS Catalog,,
+81,R3HDM2P2,rs9499708,GWAS Catalog,,
+82,RPS10P21,rs9652236,GWAS Catalog,,
+83,AL139003.1,rs9652236,GWAS Catalog,,
+84,CAMTA1,rs7524258,GWAS Catalog,,
+85,LINC01122,rs35881094,GWAS Catalog,,
+86,FECHP1,rs73070160,GWAS Catalog,,
+87,KRT8P18,rs73070160,GWAS Catalog,,
+88,POU1F1,rs4988462,GWAS Catalog,,
+89,LSAMP,rs149183310,GWAS Catalog,,
+90,GBA3,rs61792199,GWAS Catalog,,
+91,AC097512.1,rs61792199,GWAS Catalog,,
+92,NPM1P10,rs859980,GWAS Catalog,,
+93,AL357522.1,rs859980,GWAS Catalog,,
+94,YWHABP1,rs10973956,GWAS Catalog,,
+95,AL591543.1,rs10973956,GWAS Catalog,,
+96,LINC00587,rs7848024,GWAS Catalog,,
+97,AL365396.1,rs7848024,GWAS Catalog,,
+98,AP000787.1,rs11021169,GWAS Catalog,,
+99,AP001790.1,rs11021169,GWAS Catalog,,
+100,NECTIN1,rs4271390,GWAS Catalog,,
+101,AP003393.1,rs4271390,GWAS Catalog,,
+102,TRPC4,rs6563569,GWAS Catalog,,
+103,ACOD1,rs11149058,GWAS Catalog,,
+104,RPL7P44,rs11149058,GWAS Catalog,,
+105,WDR7,rs12959570,GWAS Catalog,,
+106,NFATC2,rs55797066,GWAS Catalog,,
+107,ATP9A,rs55797066,GWAS Catalog,,
+108,STAG1,rs7618871,GWAS Catalog,,
+109,DGKI,rs7785663,GWAS Catalog,,
+110,SOX5,rs7968921,GWAS Catalog,,
+111,TMEM219,rs8054556,GWAS Catalog,,
+112,RPTOR,rs8066384,GWAS Catalog,,
+113,DCC,rs8084351,GWAS Catalog,,
+114,RIMS1,rs9360557,GWAS Catalog,,
+115,FO393414.2,rs9360557,GWAS Catalog,,
+116,TCF4,rs9636107,GWAS Catalog,,
+117,SPAG16,rs9677504,GWAS Catalog,,
+118,AC068051.1,rs9677504,GWAS Catalog,,
+119,SORCS3,rs9787523,GWAS Catalog,,
+120,HSPD1P6,rs9834970,GWAS Catalog,,
+121,LINC02033,rs9834970,GWAS Catalog,,
+122,GRIN2A,rs9922678,GWAS Catalog,,
+123,KDM3B,rs10043984,GWAS Catalog,,
+124,CSMD1,rs10108980,GWAS Catalog,,
+125,RNU7-160P,rs10149470,GWAS Catalog,,
+126,AL139300.2,rs10149470,GWAS Catalog,,
+127,MOB4,rs10211550,GWAS Catalog,,
+128,HSPE1-MOB4,rs10211550,GWAS Catalog,,
+129,AC006006.1,rs10265001,GWAS Catalog,,
+130,CCT4P1,rs10265001,GWAS Catalog,,
+131,CACNA1C,rs10491964,GWAS Catalog,,
+133,LINC00461,rs10514301,GWAS Catalog,,
+134,ANKS1B,rs10745841,GWAS Catalog,,
+135,AC117377.1,rs10745841,GWAS Catalog,,
+136,LINC02551,rs10791097,GWAS Catalog,,
+137,NT5C2,rs10883832,GWAS Catalog,,
+138,RCOR2,rs11231640,GWAS Catalog,,
+139,NAA40,rs11231640,GWAS Catalog,,
+140,AP001931.1,rs11570190,GWAS Catalog,,
+141,CTNND1,rs11570190,GWAS Catalog,,
+142,AP001931.2,rs11570190,GWAS Catalog,,
+143,GID4,rs11658257,GWAS Catalog,,
+144,RPS6KL1,rs2003490,GWAS Catalog,,
+145,OLFM4,rs12552,GWAS Catalog,,
+146,AC008966.1,rs27419,GWAS Catalog,,
+147,TENM2,rs2098651,GWAS Catalog,,
+148,ACTR5,rs2103655,GWAS Catalog,,
+149,PPP1R16B,rs2103655,GWAS Catalog,,
+150,AKAP6,rs2300861,GWAS Catalog,,
+151,RGS6,rs2332700,GWAS Catalog,,
+152,AL589740.1,rs2388334,GWAS Catalog,,
+153,CACNA1I,rs732381,GWAS Catalog,,
+154,EEF1A1P11,rs2391769,GWAS Catalog,,
+155,RN7SL831P,rs2391769,GWAS Catalog,,
+156,AC104574.2,rs2414718,GWAS Catalog,,
+157,NGEF,rs778353,GWAS Catalog,,
+158,THOC7,rs832190,GWAS Catalog,,
+159,GMIP,rs880090,GWAS Catalog,,
+160,HYI-AS1,rs2842198,GWAS Catalog,,
+161,PTPRF,rs2842198,GWAS Catalog,,
+162,LINC01470,rs2910032,GWAS Catalog,,
+163,PTPRF,rs3001723,GWAS Catalog,,
+164,SNAP91,rs3798869,GWAS Catalog,,
+165,PMFBP1,rs3812984,GWAS Catalog,,
+166,TSNARE1,rs4129585,GWAS Catalog,,
+167,PLCL1,rs1518367,GWAS Catalog,,
+168,MPHOSPH9,rs1615350,GWAS Catalog,,
+169,MIR137HG,rs1702294,GWAS Catalog,,
+170,LINC02057,rs4391122,GWAS Catalog,,
+171,ITIH3,rs4481150,GWAS Catalog,,
+172,PPP2R2B,rs4495234,GWAS Catalog,,
+173,ZCCHC7,rs4526442,GWAS Catalog,,
+174,LMAN2L,rs4619651,GWAS Catalog,,
+175,CNNM4,rs4619651,GWAS Catalog,,
+176,FGFR1,rs4647903,GWAS Catalog,,
+177,TCAIM,rs4682973,GWAS Catalog,,
+178,AC002386.1,rs4730387,GWAS Catalog,,
+179,AC073071.1,rs4730387,GWAS Catalog,,
+180,ATP2A2,rs4766428,GWAS Catalog,,
+181,PPP1R13B,rs4906364,GWAS Catalog,,
+182,LINC00461,rs4916723,GWAS Catalog,,
+183,RPS19BP1,rs5757717,GWAS Catalog,,
+184,CACNA1I,rs5757717,GWAS Catalog,,
+185,L3MBTL2-AS1,rs5758265,GWAS Catalog,,
+186,L3MBTL2,rs5758265,GWAS Catalog,,
+187,KIZ-AS1,rs6047287,GWAS Catalog,,
+188,KIZ,rs6047287,GWAS Catalog,,
+189,KCNB1,rs6125656,GWAS Catalog,,
+190,AC107934.1,rs6471814,GWAS Catalog,,
+191,AC107934.2,rs6471814,GWAS Catalog,,
+192,AL645944.1,rs6694545,GWAS Catalog,,
+193,LINC01648,rs6694545,GWAS Catalog,,
+194,AC073114.1,rs6969410,GWAS Catalog,,
+195,CACNB2,rs7071123,GWAS Catalog,,
+196,BORCS7-ASMT,rs7085104,GWAS Catalog,,
+197,RBFOX1,rs7193263,GWAS Catalog,,
+198,SHISA9,rs7200826,GWAS Catalog,,
+199,U91319.1,rs7405404,GWAS Catalog,,
+200,U95743.1,rs7405404,GWAS Catalog,,
+201,RNA5SP63,rs7521492,GWAS Catalog,,
+202,AL355862.1,rs7521492,GWAS Catalog,,
+203,AL513166.1,rs7531118,GWAS Catalog,,
+204,ACTG1P22,rs11688767,GWAS Catalog,,
+205,AC097717.1,rs11693528,GWAS Catalog,,
+206,AC025281.1,rs11866581,GWAS Catalog,,
+207,RNA5SP428,rs11866581,GWAS Catalog,,
+208,CCDC68,rs11874716,GWAS Catalog,,
+209,LINC01929,rs11874716,GWAS Catalog,,
+210,AC096570.1,rs11887562,GWAS Catalog,,
+211,AC096570.2,rs11887562,GWAS Catalog,,
+212,RN7SKP19,rs12129573,GWAS Catalog,,
+213,LINC01360,rs12129573,GWAS Catalog,,
+214,MRPL33,rs12474906,GWAS Catalog,,
+215,RBKS,rs12474906,GWAS Catalog,,
+216,AC099520.1,rs12658451,GWAS Catalog,,
+217,MAD1L1,rs12668848,GWAS Catalog,,
+218,AC069288.1,rs12668848,GWAS Catalog,,
+219,GRM3,rs12704290,GWAS Catalog,,
+220,GRM3-AS1,rs12704290,GWAS Catalog,,
+221,AC096570.1,rs12712388,GWAS Catalog,,
+222,NXPH4,rs12826178,GWAS Catalog,,
+223,AC137834.2,rs12826178,GWAS Catalog,,
+224,RTN1,rs12894153,GWAS Catalog,,
+225,LINC02694,rs12898460,GWAS Catalog,,
+226,TCF4,rs12958048,GWAS Catalog,,
+227,ZSCAN31,rs13217619,GWAS Catalog,,
+228,IMMP2L,rs13240464,GWAS Catalog,,
+229,MEF2C-AS1,rs28669119,GWAS Catalog,,
+230,CHRNA3,rs28681284,GWAS Catalog,,
+231,SLC30A9,rs34215985,GWAS Catalog,,
+232,BANK1,rs35225200,GWAS Catalog,,
+233,SLC39A8,rs35225200,GWAS Catalog,,
+234,CNTN4,rs35346733,GWAS Catalog,,
+235,AC092638.2,rs35610290,GWAS Catalog,,
+236,AC074290.1,rs35610290,GWAS Catalog,,
+237,SNX19,rs35774874,GWAS Catalog,,
+238,RN7SL167P,rs35774874,GWAS Catalog,,
+239,NPAS3,rs36063234,GWAS Catalog,,
+240,TFAP2B,rs55648125,GWAS Catalog,,
+241,RPS17P5,rs55648125,GWAS Catalog,,
+242,NRGN,rs55661361,GWAS Catalog,,
+243,AC069234.1,rs58235352,GWAS Catalog,,
+244,PCGEM1,rs59979824,GWAS Catalog,,
+245,AC096647.1,rs59979824,GWAS Catalog,,
+246,SORCS3,rs61867293,GWAS Catalog,,
+247,AMBRA1,rs61882743,GWAS Catalog,,
+248,AC073023.1,rs62526783,GWAS Catalog,,
+249,AC090819.1,rs62526783,GWAS Catalog,,
+250,AC048382.5,rs71395455,GWAS Catalog,,
+251,ZSCAN2,rs71395455,GWAS Catalog,,
+252,IGSF9B,rs75059851,GWAS Catalog,,
+253,MYO18A,rs77135925,GWAS Catalog,,
+254,SOX5,rs78337797,GWAS Catalog,,
+255,AC003093.1,rs79879286,GWAS Catalog,,
+256,ACTG1P22,rs80256351,GWAS Catalog,,
+257,VRK2,rs80256351,GWAS Catalog,,
+258,AC090993.1,rs80318442,GWAS Catalog,,
+259,LINC01288,rs80318442,GWAS Catalog,,
+260,LINC01470,rs111294930,GWAS Catalog,,
+261,LINC02240,rs34660260,GWAS Catalog,,
+262,AP003400.1,rs117956829,GWAS Catalog,,
+263,FOLH1B,rs117956829,GWAS Catalog,,
+264,AC244033.2,rs140505938,GWAS Catalog,,
+265,AL136114.1,rs142462188,GWAS Catalog,,
+266,LINC01645,rs142462188,GWAS Catalog,,
+267,LINC01416,rs144158419,GWAS Catalog,,
+268,EPHX2,rs11782089,GWAS Catalog,,
+269,GULOP,rs11782089,GWAS Catalog,,
+270,FURIN,rs4702,GWAS Catalog,,
+271,SPPL3,rs2047568,GWAS Catalog,,
+272,SRPK2,rs2057884,GWAS Catalog,,
+273,FADS2,rs174592,GWAS Catalog,,
+274,TMEM161B-AS1,rs247910,GWAS Catalog,,
+275,RERE-AS1,rs301799,GWAS Catalog,,
+276,RERE,rs301799,GWAS Catalog,,
+277,ENOX1,rs395138,GWAS Catalog,,
+278,AC068875.1,rs631399,GWAS Catalog,,
+279,LINC02790,rs2391734,GWAS Catalog,,
+280,RNU1-130P,rs2391734,GWAS Catalog,,
+281,AC025839.1,rs746839,GWAS Catalog,,
+282,TCF20,rs760648,GWAS Catalog,,
+290,DRD2,rs2514218,GWAS Catalog,,
+291,TMPRSS5,rs2514218,GWAS Catalog,,
+292,PCLO,rs2522831,GWAS Catalog,,
+293,BCL11B,rs2693698,GWAS Catalog,,
+294,PDE4B,rs2801578,GWAS Catalog,,
+295,SYNE2,rs915057,GWAS Catalog,,
+296,ESR2,rs915057,GWAS Catalog,,
+297,AL596257.1,rs1002656,GWAS Catalog,,
+298,AC117945.2,rs1002656,GWAS Catalog,,
+299,LINC01876,rs1226412,GWAS Catalog,,
+300,NAA11,rs1484144,GWAS Catalog,,
+301,LINC01088,rs1484144,GWAS Catalog,,
+302,HCN1,rs1501361,GWAS Catalog,,
+303,PXDNL,rs4242470,GWAS Catalog,,
+304,TRIM8,rs4244354,GWAS Catalog,,
+305,ARL3,rs4244354,GWAS Catalog,,
+306,CACNA1C,rs4298967,GWAS Catalog,,
+308,ZNF804A,rs4380187,GWAS Catalog,,
+309,AC009315.1,rs4380187,GWAS Catalog,,
+310,RSRC1,rs1730054,GWAS Catalog,,
+311,AL035078.4,rs1806153,GWAS Catalog,,
+312,PAUPAR,rs1806153,GWAS Catalog,,
+313,LRFN5,rs1950829,GWAS Catalog,,
+0,ACE,rs3773679,OCDB,yes,dopamine receptor
+1,ACO2,rs3087879,OCDB,yes,solute carrier for glutamate transporters; mutation associated with glutamate-aspartate transport defect
+2,ADAD2,rs4975646,OCDB,yes,dopamine transporter; mutations assciated with ADHD idiopathic
+3,ADAM17,nan,OCDB,no,neurexin (cell-surface receptor involved in Ca-dependent neurexin complexes)
+4,ADAMTSL4,nan,OCDB,no,ubiquitin protein ligase 1 (also involved in transcription and RNA splicing)
+5,ADAMTSL4-AS1,nan,OCDB,yes,dopamine receptor
+6,ADARB2,nan,OCDB,no,signal transduction protein; binds to smad-binding element (SBE); tumor suppressor protein; associated with TGF-B transduction (important in formation of neural tube during development)
+7,ADCY8,nan,OCDB,no,"membrane glycoprotein in follicular dendritic cells or blood cells (RCA);mutations in this gene have been associated with gallbladder carcinomas, mesangiocapillary glomerulonephritis, systemic lupus erythematosus, sarcoidosis and Alzheimer's disease"
+8,ADH5P4,nan,OCDB,yes,glutamate ionotropic receptor
+9,ADORA2A,nan,OCDB,yes,glutamate ionotropic receptor
+10,ADRA1A,nan,OCDB,yes,glutamate ionotropic receptor
+11,ADRA2A,nan,OCDB,yes,glutamate ionotropic receptor
+12,ADRB1,nan,OCDB,yes,glutamate ionotropic receptor
+13,ADRB1,rs12769537,OCDB,yes,glutamate ionotropic receptor
+14,ADRB2,nan,OCDB,yes,glutamate ionotropic receptor
+15,ADSL,rs1805476,OCDB,yes,glutamate ionotropic receptor
+16,AIFM2,rs6295,OCDB,yes,serotonin receptor; mutation in the promoter of this gene has been associated with menstrual cycle-dependent periodic fevers
+17,ALAD,rs4880,OCDB,no,"mitochondrial protein that binds to superoxide byproducts of oxidative phosphorylation; mutations in this gene have been associated with idiopathic cardiomyopathy (IDC), premature aging, sporadic motor neuron disease, and cancer."
+18,ANKK1,nan,OCDB,yes,vessicle transport involved in neurotransmitter release and regulation
+19,ANKZF1,rs1800497,OCDB,yes,"closely linked to DRD2 gene, transcribes a Ser/Thr kinase protein"
+20,ANP32E,nan,OCDB,yes,dopamine receptor
+21,ANXA9,nan,OCDB,yes,dopamine receptor
+22,AP4B1-AS1,nan,OCDB,no,adrenocetor alpha 2A; involved in regulating the release of neurotransmitter molecules from sympathetic nerves and from adrenergic neurons in the central nervous system
+23,APOE,nan,OCDB,no (epinephrine),epinephrine and norepinephrine receptor; adrenoceptor beta 1; mediate the physiological effects of the hormone epinephrine and the neurotransmitter norepinephrine
+24,arhgap8,nan,OCDB,no,apolipoprotein E: catabolism of lipoproteins
+25,ARNT,nan,OCDB,no,"brain derived neurotrophic factor: nerve growth factor, regulation of stress response and associated with mood disorders. reduced expression leads to alzheimer's parkinson's and huntington's"
+26,ARPC1B,nan,OCDB,no,"calcium voltage-gated channel subunit alpha1 A: mediates hormone or neurotransmitter release, mutations associated with familial hemiplegic migraine and episodic ataxia 1"
+27,AS1,rs767619,OCDB,no,cadherin 2: development of nervous system
+28,AS1,rs2842198,OCDB,no,cadherin 2: development of nervous system
+29,AS1,rs12704290,OCDB,no,cadherin 2: development of nervous system
+30,AS1,rs301799,OCDB,no,cadherin 2: development of nervous system
+31,AS1,rs5758265,OCDB,no,cadherin 2: development of nervous system
+32,AS1,rs247910,OCDB,no,cadherin 2: development of nervous system
+33,AS1,rs6047287,OCDB,no,cadherin 2: development of nervous system
+34,AS1,nan,OCDB,no,cadherin 2: development of nervous system
+35,AS1,rs28669119,OCDB,no,cadherin 2: development of nervous system
+36,AS2,nan,OCDB,no,"cholinergic receptor muscarinic 4: function unknown, linked to adenylyl cyclase inhibition, phosphoinositide degeneration, and potassium channel mediation"
+37,ASB13,nan,OCDB,no,"cholinergic receptor muscarinic 5:  function unknown, linked to adenylyl cyclase inhibition, phosphoinositide degeneration, and potassium channel mediation"
+38,ASPHD1,nan,OCDB,no,"cholinergic receptor nicotinic alpha 7 subunit: mediate fast signal transmission at synapses, permeability to calcium ions, receptor binds acetylcholine"
+39,ASTN2,nan,OCDB,no,"D-amino acid oxidase activator: associated with schizophrenia and bipolar affective disorder, activator of D-amino acid oxidase, degrades D-serine"
+40,ATF5 ,nan,OCDB,no,"membrane-associated guanylate kinase (MAGUK) family; form multimeric scaffold for receptors, ion channels and signaling proteins"
+41,ATP1A1OS,nan,OCDB,no,DLG associated protein 1
+42,ATP2A3,nan,OCDB,no,DLG associated protein 3
+43,AUTS2,nan,OCDB,no (estrogen),estrogen receptor 2
+44,BDKRB2,nan,OCDB,no,fas apoptotic inhibitory molecule 2
+45,BDNF,nan,OCDB,no,"formin 1: adherens junction, actin cables"
+46,BOLA1,nan,OCDB,no,"glutamate decarboxylase 2: not active in brain tissue, catalyzing the production of gamma-aminobutyric acid from L-glutamic acid"
+47,BRAF,nan,OCDB,no,glutathione S-transferase pi 1: detoxification and xenobiotic metabolism
+48,BTBD14B,nan,OCDB,no,hypopolarization activated cyclic nucleotide gated potassium: cardiac pacemaking process
+49,BZRAP1,nan,OCDB,no ,homeobox B8: nuclear protein with a homeobox DNA-binding domain; mutations associated with OCD
+50,C16orf58,nan,OCDB,no ,"Ras oncogene family; function in signal transduction pathway, GTPase"
+51,C16orf92,nan,OCDB,no ,5-hydroxytryptamine receptor 1D
+52,C22orf13,nan,OCDB,no ,5-hydroxytryptamine receptor 2A
+53,C3orf35,nan,OCDB,no ,5-hydroxytryptamine receptor 3A
+54,C9orf148,nan,OCDB,no ,IQ motif containing K: binding site for EF_hand proteins; associated with OCD
+55,C9orf75,nan,OCDB,no ,"potassium calcium-activated channel subfamily N member 3: encodes an integral membrane protein that forms a voltage-independent calcium-activated channel, which is thought to regulate neuronal excitability by contributing to the slow component of synaptic AHP"
+56,CACNA1A,nan,OCDB,no ,nucleolar protein that interacts with zinc finger 106 protein. The encoded protein has several of the same characteristics as nucleostemin and may be involved in testis development
+57,CACNA1C,rs4298967,OCDB,yes, This gene also plays a role in the development of dopamine producing neurons during embryogenesis
+58,CACNA1C,rs10491964,OCDB,yes, This gene also plays a role in the development of dopamine producing neurons during embryogenesis
+59,CACNA1C,nan,OCDB,yes, This gene also plays a role in the development of dopamine producing neurons during embryogenesis
+60,CACNA2D3,rs11924650,OCDB,no ,membrane-bound receptor and member of the melanocortin receptor family. The encoded protein interacts with adrenocorticotropic and MSH hormones and is mediated by G proteins
+61,CACNA2D3,nan,OCDB,no ,membrane-bound receptor and member of the melanocortin receptor family. The encoded protein interacts with adrenocorticotropic and MSH hormones and is mediated by G proteins
+62,CALML3,nan,OCDB,no ,"This gene encodes a homeobox protein belonging to the TALE ('three amino acid loop extension') family of homeodomain-containing proteins. TALE homeobox proteins are highly conserved transcription regulators, and several members have been shown to be essential contributors to developmental programs"
+63,CALML5,nan,OCDB,no ,"catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a co-substrate for homocysteine remethylation to methionine. Genetic variation in this gene influences susceptibility to occlusive vascular disease, neural tube defects, colon cancer and acute leukemia, and mutations in this gene are associated with methylenetetrahydrofolate reductase deficiency"
+64,CALY,nan,OCDB,no ,melatonin receptor 1B
+65,CASC11,nan,OCDB,no ,nanog homeobox retrogene P8: reprogramming of cancer cells
+66,CASC21,nan,OCDB,no ,nk2 homeobox 1: thyroid-specific transcription factor
+67,CASC8,nan,OCDB,no ,nitric oxide synthase 1 adaptor protein
+68,CBLN1,nan,OCDB,no ,nitric oxide synthase 2: expressed in liver
+69,CCAT2,nan,OCDB,no ,neurotrophic receptor tyrosine kinase 3: MAPK signalling pathway for binds neurotrophins
+70,CCDC78,nan,OCDB,no ,pbx homeobox 1: transcription factor regulated osteogenesis and skeletal patterning
+71,CCKBR,nan,OCDB,no ,presenilin 1
+72,CCL2,nan,OCDB,no ,"rap1 gtpase activating protein: receptor-linked signaling pathways that control cell growth and differentiation. RAP1 plays a role in diverse processes such as cell proliferation, adhesion, differentiation, and embryogenesis"
+73,CCND2,nan,OCDB,no ,regulator of G protein signaling 2: mediator of myeloid differentiation and may play a role in leukemogenesis
+74,CDC26,nan,OCDB,no ,"nuclear hormone receptor, regulates transcription of circadian rhythm genes"
+75,CDC42SE1,nan,OCDB,no ,"ryanodine receptor 3: ryanodine receptor, which functions to release calcium from intracellular storage for use in many cellular processes"
+76,CDH2,nan,OCDB,yes (glutamate transporter),solute carrier family 1 member 2: glutamate transport - principal transporter that clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system
+77,CDH9,nan,OCDB,yes,
+78,CDIPT,nan,OCDB,yes,
+79,CDK2AP1,nan,OCDB,yes,
+80,CFL1,nan,OCDB,no ,SLITRK protein; involved in neurite outgrowth
+81,CHADL,nan,OCDB,no ,
+82,CHRM1,nan,OCDB,no ,synaptic vesicle proteins
+83,CHRM2,nan,OCDB,yes,tryptophan hydrozylase 1: catalyzes the first and rate limiting step in the biosynthesis of serotonin
+84,CHRM4,nan,OCDB,yes,tryptophan hydrozylase 2: catalyzes the first and rate limiting step in the biosynthesis of serotonin
+85,CHRM5,nan,OCDB,no,uncoupling protein 2: facilitate the transfer of anions from the inner to the outer mitochondrial membrane and the return transfer of protons from the outer to the inner mitochondrial membrane
+86,CHRNA4,nan,OCDB,no,"adenosine A2a receptor: seven-pass transmembrane proteins that respond to extracellular cues and activate intracellular signal transduction pathways, plays an important role in many biological functions, such as cardiac rhythm and circulation, cerebral and renal blood flow, immune function, pain regulation, and sleep. It has been implicated in pathophysiological conditions such as inflammatory diseases and neurodegenerative disorders"
+87,CHRNA7,nan,OCDB,no,"cholinergic receptor nicotinic alpha 4 subunit: nicotinic acetylcholine receptor, which belongs to a superfamily of ligand-gated ion channels that play a role in fast signal transmission at synapses"
+88,CLEC5A,nan,OCDB,yes,"catechol-O-methyltransferase: catalyzes the transfer of a methyl group from S-adenosylmethionine to catecholamines, including the neurotransmitters dopamine, epinephrine, and norepinephrine"
+89,CLEC5A,rs1285950,OCDB,yes,"catechol-O-methyltransferase: catalyzes the transfer of a methyl group from S-adenosylmethionine to catecholamines, including the neurotransmitters dopamine, epinephrine, and norepinephrine"
+90,CLYBL,nan,OCDB,no ,"cytochrome P450 family protein: catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids; substrates include antidepressants, antipsychotics, analgesics and antitussives, beta adrenergic blocking agents, antiarrythmics and antiemetics"
+91,CNR1,nan,OCDB,no (growth hormone),"growth hormone releasing hormone: produced in the hypothalamus and cleaved to generate the mature factor, known as somatoliberin, which acts to stimulate growth hormone release from the pituitary gland"
+92,CNTNAP1,nan,OCDB,no,"GNAS complex locus: highly imprinted, Mutations in this gene result in pseudohypoparathyroidism type 1a, pseudohypoparathyroidism type 1b, Albright hereditary osteodystrophy, pseudopseudohypoparathyroidism, McCune-Albright syndrome, progressive osseus heteroplasia, polyostotic fibrous dysplasia of bone, and some pituitary tumors"
+93,COL23A1,nan,OCDB,yes,5-hydroxytryptamine receptor 2B:  receptors for 5-hydroxytryptamine (serotonin) that belongs to the G-protein coupled receptor 1 family
+94,COMT,nan,OCDB,no,"interleukin 1 beta: mediator of the inflammatory response, and is involved in a variety of cellular activities, including cell proliferation, differentiation, and apoptosis"
+95,CPSF3,nan,OCDB,no,"oligodendrocyte transcription factor 2: basic helix-loop-helix transcription factor which is expressed in oligodendroglial tumors of the brain, associated with Down Syndrome"
+96,CPZ,nan,OCDB,no,"proopiomelanocortin: active in pituitary, Mutations in this gene have been associated with early onset obesity, adrenal insufficiency, and red hair pigmentation"
+97,CR1,nan,OCDB,no,proline dehydrogenase 1: mitochondrial protein that catalyzes the first step in proline degradation. Mutations in this gene are associated with hyperprolinemia type 1 and susceptibility to schizophrenia 4 (SCZD4)
+98,CRHR2,nan,OCDB,,protein tyrosine phosphatase non-receptor type 1: catalyze the hydrolysis of the phosphate monoesters specifically on tyrosine residues
+99,CSF1,nan,OCDB,,
+100,CSNK1G3,nan,OCDB,,
+101,CTNND1,rs11570190,OCDB,,
+102,CTNND1,nan,OCDB,,
+103,CTSK,nan,OCDB,,
+104,CTSS,nan,OCDB,,
+105,CXCL8,nan,OCDB,,
+106,CYP2D6,nan,OCDB,,
+107,DAOA,nan,OCDB,,
+108,DBH,nan,OCDB,,
+109,DCC,nan,OCDB,,
+110,DCC,rs8084351,OCDB,,
+111,DCLK3,nan,OCDB,,
+112,DCTPP1,nan,OCDB,,
+113,DESI1,nan,OCDB,,
+114,DHRS13,nan,OCDB,,
+115,DLG4,nan,OCDB,,
+116,DLGAP1,nan,OCDB,,
+117,DLGAP2,nan,OCDB,,
+118,DLGAP3,nan,OCDB,,
+119,DOC2A,nan,OCDB,,
+120,DRD1,nan,OCDB,,
+121,DRD2,rs2514218,OCDB,,
+122,DRD2,nan,OCDB,,
+123,DRD3,nan,OCDB,,
+124,DRD4,nan,OCDB,,
+125,DTNBP1,nan,OCDB,,
+126,ECM1,nan,OCDB,,
+127,EFNA5,nan,OCDB,,
+128,EGF,nan,OCDB,,
+129,EGR3,nan,OCDB,,
+130,EIF4A1P6,nan,OCDB,,
+131,EP300,nan,OCDB,,
+132,ERCC4,nan,OCDB,,
+133,ESR1,nan,OCDB,,
+134,ESR2,nan,OCDB,,
+135,ESR2,rs915057,OCDB,,
+136,FAIM2,nan,OCDB,,
+137,FAM100A,nan,OCDB,,
+138,FAM208B,nan,OCDB,,
+139,FAM63A,nan,OCDB,,
+140,FAM83F,nan,OCDB,,
+141,FBLN5,nan,OCDB,,
+142,FBXL12,nan,OCDB,,
+143,FBXL7,nan,OCDB,,
+144,FCGR1A,nan,OCDB,,
+145,FGB,nan,OCDB,,
+146,FKSG24,nan,OCDB,,
+147,FKSG43,nan,OCDB,,
+148,FMN1,nan,OCDB,,
+149,FOXD4,nan,OCDB,,
+150,FRMD8,nan,OCDB,,
+151,FSCN2,nan,OCDB,,
+152,FSTL3,nan,OCDB,,
+153,FZD10,nan,OCDB,,
+154,GABBR1,nan,OCDB,,
+155,GABRA1,nan,OCDB,,
+156,GABRA6,rs2271275,OCDB,,
+157,GABRG2,nan,OCDB,,
+158,GAD2,nan,OCDB,,
+159,GAD2,nan,OCDB,,
+160,GATA6,nan,OCDB,,
+161,GDI2,rs945032,OCDB,,
+162,GHRH,nan,OCDB,,
+163,GMIP,nan,OCDB,,
+164,GMIP,rs880090,OCDB,,
+165,GNA11,nan,OCDB,,
+166,GNAS,nan,OCDB,,
+167,GNG8,nan,OCDB,,
+168,GPR20,nan,OCDB,,
+169,GPR3,nan,OCDB,,
+170,GPR63,nan,OCDB,,
+171,GRAP2,nan,OCDB,,
+172,GRIA3,nan,OCDB,,
+173,GRIA4,nan,OCDB,,
+174,GRIK1,nan,OCDB,,
+175,GRIK2,nan,OCDB,,
+176,GRIK3,nan,OCDB,,
+177,GRIK5,nan,OCDB,,
+178,GRIN2B,nan,OCDB,,
+179,GSTP1,nan,OCDB,,
+180,HCN4,nan,OCDB,,
+181,HEBP2,nan,OCDB,,
+182,HEYL,nan,OCDB,,
+183,HH3,nan,OCDB,,
+184,HIG2,nan,OCDB,,
+185,HIP1,nan,OCDB,,
+186,HIST1H2 AL,nan,OCDB,,
+187,HIST1H2AG,nan,OCDB,,
+188,HIST1H2AI,nan,OCDB,,
+189,HIST1H2AJ,nan,OCDB,,
+190,HIST1H2AK,nan,OCDB,,
+191,HIST1H2AM,nan,OCDB,,
+192,HIST2H2AA4,nan,OCDB,,
+193,HIST2H2AB,nan,OCDB,,
+194,HIST2H2AC,nan,OCDB,,
+195,HIST2H2BE,nan,OCDB,,
+196,HIST2H3A,nan,OCDB,,
+197,HIST2H3C,nan,OCDB,,
+198,HIST2H4B,nan,OCDB,,
+199,HNRNPH3,nan,OCDB,,
+200,HOXB8,nan,OCDB,,
+201,HRAS,nan,OCDB,,
+202,HRH1,nan,OCDB,,
+203,HS3ST2,nan,OCDB,,
+204,HTR1A,nan,OCDB,,
+205,HTR1B,nan,OCDB,,
+206,HTR1D,nan,OCDB,,
+207,HTR2A,nan,OCDB,,
+208,HTR2B,nan,OCDB,,
+209,HTR3A,nan,OCDB,,
+210,HTR3C,nan,OCDB,,
+211,HTR3E,nan,OCDB,,
+212,IAH1,nan,OCDB,,
+213,IK,nan,OCDB,,
+214,IL1B,nan,OCDB,,
+215,IL6,nan,OCDB,,
+216,INO80E,nan,OCDB,,
+217,IQCK,nan,OCDB,,
+218,JAKMIP1,nan,OCDB,,
+219,JUND,nan,OCDB,,
+220,KCNB2,nan,OCDB,,
+221,KCNIP4,nan,OCDB,,
+222,KCNN3,nan,OCDB,,
+223,KCTD13,nan,OCDB,,
+224,KDM4C,nan,OCDB,,
+225,KIAA0409,nan,OCDB,,
+226,KIF22,nan,OCDB,,
+227,KIT,nan,OCDB,,
+228,KLHL32,nan,OCDB,,
+229,KNOP1,nan,OCDB,,
+230,L3MBTL2,rs5758265,OCDB,,
+231,L3MBTL2,nan,OCDB,,
+232,LDOC1L,nan,OCDB,,
+233,LHX2,nan,OCDB,,
+234,LINC00051,nan,OCDB,,
+235,LINC00207,nan,OCDB,,
+236,LINC00229,nan,OCDB,,
+237,LINC00331,nan,OCDB,,
+238,LMTK2,nan,OCDB,,
+239,LMX1A,nan,OCDB,,
+240,LOC100128371,nan,OCDB,,
+241,LOC100130849,nan,OCDB,,
+242,LOC100132474,nan,OCDB,,
+243,LOC100287225,nan,OCDB,,
+244,LOC100418956,nan,OCDB,,
+245,LOC100421611,nan,OCDB,,
+246,LOC100505592,nan,OCDB,,
+247,LOC101927311,nan,OCDB,,
+248,LOC101927348,nan,OCDB,,
+249,LOC101927526,nan,OCDB,,
+250,LOC101929241,nan,OCDB,,
+251,LOC107985997,nan,OCDB,,
+252,LOC253842,nan,OCDB,,
+253,LOC284930,nan,OCDB,,
+254,LOC285484,nan,OCDB,,
+255,LOC392232,nan,OCDB,,
+256,LOC729948,nan,OCDB,,
+257,LOC730031,nan,OCDB,,
+258,LOC730314,nan,OCDB,,
+259,LOR,nan,OCDB,,
+260,LYPD2,nan,GWAS,62,GWAS results
+261,LYSMD1,nan,GWAS,,
+262,MAGI3,nan,GWAS,,
+263,MAML2,nan,GWAS,,
+264,MAP2K6,nan,GWAS,,
+265,MAZ,nan,GWAS,,
+266,MC4R,nan,GWAS,,
+267,MEIS2,nan,GWAS,,
+268,MESP1,nan,GWAS,,
+269,MKL2,nan,GWAS,,
+270,MLLT11,nan,GWAS,,
+271,MLLT4,nan,GWAS,,
+272,MOG,nan,GWAS,,
+273,MRLP19,nan,GWAS,,
+274,MRPL43,nan,GWAS,,
+275,MRPL45,nan,GWAS,,
+276,MRPS21,nan,GWAS,,
+277,MRPS33,nan,GWAS,,
+278,MTHFD1,nan,GWAS,,
+279,MTHFR,nan,GWAS,,
+280,MTMR11,nan,GWAS,,
+281,MTNR1A,nan,GWAS,,
+282,MTNR1B,nan,GWAS,,
+283,MVP,nan,GWAS,,
+284,MXI1,nan,GWAS,,
+285,MYC,nan,GWAS,,
+286,NANOGP8,nan,GWAS,,
+287,NDUFA4,nan,GWAS,,
+288,NET1,nan,GWAS,,
+289,NEUROD6,nan,GWAS,,
+290,NFKBIB,nan,GWAS,,
+291,NFKBIL1,nan,GWAS,,
+292,NID1,nan,GWAS,,
+293,NKX2-1,nan,GWAS,,
+294,NME1-,nan,GWAS,,
+295,NME2,nan,GWAS,,
+296,NOS1AP,nan,GWAS,,
+297,NOS2,nan,GWAS,,
+298,NOS3,nan,GWAS,,
+299,NPSR1,nan,GWAS,,
+300,NR6A1,nan,GWAS,,
+301,NRCAM,nan,GWAS,,
+302,NRXN1,nan,GWAS,,
+303,NTRK2,nan,GWAS,,
+304,NTRK3,nan,GWAS,,
+305,NUDT16L1,nan,GWAS,,
+306,OLFM1,nan,GWAS,,
+307,OLIG2,nan,GWAS,,
+308,OPRM1,nan,GWAS,,
+309,OR5AK2,nan,GWAS,,
+310,OR5B21,nan,GWAS,,
+311,OTUD7B,nan,GWAS,,
+312,OXTR,nan,GWAS,,
+313,PAGR1,nan,GWAS,,
+314,PAQR8,nan,GWAS,,
+315,PBX1,nan,GWAS,,
+316,PCP2,nan,GWAS,,
+317,PDE10A,nan,GWAS,,
+318,PDIA5,nan,GWAS,,
+319,PELO,nan,GWAS,,
+320,PGLYRP3,nan,GWAS,,
+321,PGLYRP4,nan,GWAS,,
+322,PHF23,rs6838743,eQTL results,98,total eQTL results
+323,PHTf1,rs12506519,eQTL results,,
+324,PHTf1,rs1511295,eQTL results,,
+325,PI16,rs9952159,eQTL results,,
+326,PIGC,rs11663827,eQTL results,,
+327,PIN1,rs6844422,eQTL results,,
+328,PIWIL1,rs11663827,eQTL results,,
+329,PLEK,rs2482998,eQTL results,,
+330,PLEKHO1,rs16841562,eQTL results,,
+331,PLEKHO1,rs1369169,eQTL results,,
+332,PLEKHO1,rs954467,eQTL results,,
+333,PLGRKT,rs16841562,eQTL results,,
+334,PMM1,rs1369169,eQTL results,,
+335,POMC,rs6838743,eQTL results,,
+336,POU5F1B,rs4574371,eQTL results,,
+337,PPIB,rs17264265,eQTL results,,
+338,PPP2R2C,rs6838743,eQTL results,,
+339,PPP4C,rs7911497,eQTL results,,
+340,PRODH,rs6844422,eQTL results,,
+341,PRODH,rs1503212,eQTL results,,
+342,PRPF3,rs7911497,eQTL results,,
+343,PRR5,rs2482998,eQTL results,,
+344,PRRT2,rs6844422,eQTL results,,
+345,PRSS37,rs6844422,eQTL results,,
+346,PRSS37,rs11663827,eQTL results,,
+347,PRSS37,rs1369169,eQTL results,,
+348,PRSS37,rs954467,eQTL results,,
+349,PRSS37,rs2046015,eQTL results,,
+350,PRSS37,rs7699688,eQTL results,,
+351,PRSS37,rs1511295,eQTL results,,
+352,PRUNE,rs1260608,eQTL results,,
+353,PRUNE,rs2482998,eQTL results,,
+354,PSEN1,rs5765830,eQTL results,,
+355,PTP4A3,rs9952159,eQTL results,,
+356,PTPN1,rs6838743,eQTL results,,
+357,PTPN1,rs4286490,eQTL results,,
+358,PTPN22,rs16841562,eQTL results,,
+359,PTPRD,rs16841562,eQTL results,,
+360,PTPRS,rs9952159,eQTL results,,
+361,PTPRS,rs11663827,eQTL results,,
+362,QPRT,rs9952159,eQTL results,,
+363,QPRT,rs11663827,eQTL results,,
+364,RANGAP1,rs7683744,eQTL results,,
+365,RANGAP1,rs6844422,eQTL results,,
+366,RANGAP1,rs10021088,eQTL results,,
+367,RANGAP1,rs1503211,eQTL results,,
+368,RAP1GAP,rs954467,eQTL results,,
+369,RBFOX1,rs11663827,eQTL results,,
+370,RBFOX1,rs7193263,eQTL results,,
+371,RBM6,rs7911497,eQTL results,,
+372,RBMXP1,rs12506519,eQTL results,,
+373,RBMXP1,rs1511295,eQTL results,,
+374,RBX1,rs4286490,eQTL results,,
+375,RGS2,rs1460411,eQTL results,,
+376,RGS2,rs1110731,eQTL results,,
+377,RIMBP2,rs1260608,eQTL results,,
+378,RIMBP2,rs2482998,eQTL results,,
+379,RNU105C,rs7911497,eQTL results,,
+380,RORA,rs9952159,eQTL results,,
+381,RORA,rs8096356,eQTL results,,
+382,RPL7P33,rs16841562,eQTL results,,
+383,RPS16P2,rs16841562,eQTL results,,
+384,RPS16P2,rs7578149,eQTL results,,
+385,RPS19BP1,rs16841562,eQTL results,,
+386,RPS19BP1,rs5757717,eQTL results,,
+387,RSBN1,rs16841562,eQTL results,,
+388,RUFY1,rs16841562,eQTL results,,
+389,RYR3,rs16841562,eQTL results,,
+390,S100A12,rs1511295,eQTL results,,
+391,S100A13,rs9530835,eQTL results,,
+392,S100A14,rs1354296,eQTL results,,
+393,S100A14,rs17264265,eQTL results,,
+394,S100A16,rs1511295,eQTL results,,
+395,S100A2,rs16841562,eQTL results,,
+396,S100A3,rs1260608,eQTL results,,
+397,S100A3,rs2482998,eQTL results,,
+398,S100A4,rs16841562,eQTL results,,
+399,S100A5,rs954467,eQTL results,,
+400,S100A6,rs1260608,eQTL results,,
+401,S100A6,rs2482998,eQTL results,,
+402,S100A7,rs28696717,eQTL results,,
+403,S100A7,rs7911497,eQTL results,,
+404,S100A8,rs6844422,eQTL results,,
+405,S100A8,rs10021088,eQTL results,,
+406,S100A8,rs1503211,eQTL results,,
+407,S100A8,rs1511295,eQTL results,,
+408,S100A9,rs7911497,eQTL results,,
+409,SART3,rs4574371,eQTL results,,
+410,SCL18A1,rs2046015,eQTL results,,
+411,SCL18A1,rs11663827,eQTL results,,
+412,SCL18A1,rs1369169,eQTL results,,
+413,SCL18A1,rs7699688,eQTL results,,
+414,SCN2A,rs6844422,eQTL results,,
+415,SCN2A,rs10021088,eQTL results,,
+416,SCN2A,rs1503211,eQTL results,,
+417,SCN2A,rs1511295,eQTL results,,
+418,SCN5A,rs7911497,eQTL results,,
+419,SCNM1,rs8096356,eQTL results,,
+420,SETD5,rs954467,eQTL results,,
+421,SETDB1,rs9952159,eQTL results,,
+422,SEZ6L2,rs16841562,eQTL results,,
+423,SF3B4,rs5765830,eQTL results,,
+424,SGCE,rs1369169,eQTL results,,
+425,SGCE,rs954467,eQTL results,,
+426,SHB,rs1369169,eQTL results,,
+427,SHB,rs954467,eQTL results,,
+428,SIGLECL1,rs1260608,eQTL results,,
+429,SIGLECL1,rs2482998,eQTL results,,
+430,SKI,rs1369169,eQTL results,,
+431,SLC16A14,rs1260608,eQTL results,,
+432,SLC16A14,rs2482998,eQTL results,,
+433,SLC1A1,rs10021088,eQTL results,,
+434,SLC1A1,rs1503211,eQTL results,,
+435,SLC1A1,rs12506519,eQTL results,,
+436,SLC1A1,rs6838743,eQTL results,,
+437,SLC1A1,rs1511295,eQTL results,,
+438,SLC1A1,rs4286490,eQTL results,,
+439,SLC1A2,rs16841562,eQTL results,,
+440,SLC1A2,rs10928684,eQTL results,,
+441,SLC22A3,rs1260608,eQTL results,,
+442,SLC22A3,rs2482998,eQTL results,,
+443,SLC25A17,rs1260608,eQTL results,,
+444,SLC25A17,rs2482998,eQTL results,,
+445,SLC25A51P1,rs954467,eQTL results,,
+446,SLC43A1,rs7911497,eQTL results,,
+447,SLC6A2,rs11663827,eQTL results,,
+448,SLC6A3,rs7683744,eQTL results,,
+449,SLC6A4,rs1354296,eQTL results,,
+450,SLC6A4,rs7686545,eQTL results,,
+451,SLC6A4,rs12506519,eQTL results,,
+452,SLC6A4,rs1511295,eQTL results,,
+453,SLC6A5,rs6844422,eQTL results,,
+454,SLITRK1,rs1354296,eQTL results,,
+455,SLITRK1,rs1511295,eQTL results,,
+456,SLITRK3,rs16841562,eQTL results,,
+457,SLITRK3,rs1260608,eQTL results,,
+458,SLITRK5,rs1369169,eQTL results,,
+459,SMAD4,rs16841562,eQTL results,,
+460,SNAP25,rs16841562,eQTL results,,
+461,SNHG11,rs6844422,eQTL results,,
+462,SNHG11,rs1503212,eQTL results,,
+463,SNIP,rs10928684,eQTL results,,
+464,SNORA39,rs1260608,eQTL results,,
+465,SNORA60,rs2482998,eQTL results,,
+466,SNTG2,rs16841562,eQTL results,,
+467,SOD2,rs1503211,eQTL results,,
+468,SOD2,rs10021088,eQTL results,,
+469,SOD2,rs12506519,eQTL results,,
+470,SOD2,rs1511295,eQTL results,,
+471,SP110,rs1260608,eQTL results,,
+472,SP110,rs2482998,eQTL results,,
+473,SPAG16,rs6838743,eQTL results,,
+474,SPAG16,rs9677504,eQTL results,,
+475,SPIRE1,rs1260608,eQTL results,,
+476,SPIRE1,rs2482998,eQTL results,,
+477,SPN,rs9952159,eQTL results,,
+478,SS18L1,rs7911497,eQTL results,,
+479,ST13,rs1511295,eQTL results,,
+480,SUMO1,rs7661294,eQTL results,,
+481,SUMO1P3,rs1511295,eQTL results,,
+482,SV2A,rs903908,Lit,,
+483,SYNDIG1,rs260513,,,
+484,TAAR1,rs6569819,Lit,,
+485,TAAR1,rs7578149,Lit,,
+486,TAOK2,rs6436908,Lit,,
+487,TARS2,rs7599478,Lit,,
+488,TBC1D10B,rs3771875,Lit,,
+489,TEF,rs2422230,,,
+490,TEX2,rs7588344,,,
+491,THUMPD1,rs7591166,Lit,,
+492,TMEM219,rs6743476,Lit,,
+493,TMEM219,rs8054556,Lit,,
+494,TMOD4,rs12694840,,,
+495,TMX2-CTNND1,rs2001658,Lit,,
+496,TNF,rs11674954,Lit,,
+497,TNFAIP2,rs1048610,Lit,,
+498,TNRC6B,rs11924650,Lit,,
+499,TOB2,rs870429,Lit,,
+500,TOR1A,rs2227421,Lit,,
+501,TPH1,rs1495509,Lit,,
+502,TPH2,rs2648727,Lit,,
+503,TRIM32,rs603852,Lit,,
+504,TSNARE1,rs6884946,Lit,,
+505,TSNARE1,rs4129585,Lit,,
+506,TTLL11,rs10484428,Lit,,
+507,TUBAL3,exm2270472,,,
+508,ucn3,rs3010531,,,
+509,UCP2,rs9296598,Lit,,
+510,USP3,rs13191280,Lit,,
+511,VEGFA,rs4299807,Lit,,
+512,VPS45,rs6569819,Lit,,
+513,WDFY4,rs7777145,Lit,,
+514,WFS1,kgp1254867,Lit,,
+515,WNT9B,rs4731231,Lit,,
+516,WWP1,rs12534422,,,
+517,XPNPEP3,rs1285950,Lit,,
+518,XRCC6,rs7794708,,,
+519,YPEL3,rs10464444,Lit,,
+520,yy1p2,rs11765575,,,
+521,ZC3H7B,rs2719401,Lit,,
+522,ZMYND8,rs519761,Lit,,
+523,ZNF333,rs776022,Lit,,
+524,ZNF407,rs10815211,Lit,,
+525,ZNF687,rs10857636,Lit,,
+526,ZNF689,exm2267086,Lit,,
+527,ZNF771,rs4144614,Lit,,
+528,LINC00378,rs1575432,Lit,,
+529,,rs229836,Lit,,
+530,LINC02325,rs2626595,Lit,,
+531,LINC02325,rs11628827,,,
+532,FBLN5,rs1861085,Lit,,
+533,AC044798.3,rs11647643,Lit,,
+534,AC044798.3,rs12599955,,,
+535,LINC01630,rs321849,Lit,,
+536,LINC01630,rs321858,,,
+537,SIGLECL1,rs10410689,Lit,,
+538,,rs6132764,Lit,,
+539,AL117329.1,rs9615637,Lit,,
+540,AC063977.3,rs10410689,Lit,,
